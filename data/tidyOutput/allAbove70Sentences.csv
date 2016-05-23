@@ -1,0 +1,127 @@
+"sentID","SentenceContext","sentenceClosure","compLower","popularity","nComp","percent","above70","comp.det","comp.noun","Lg10WF","natNess","RT","Diff"
+4,"Veel Nederlanders gaan bij mooi weer naar hun werk op","maar pakken de auto als het regent.","de fiets",48,50,96,1,"de","fiets",2.9786,4.38,13.5676,5.8
+5,"De piraat gebruikte een geheime kaart bij zijn zoektocht naar","op het eiland.","de schat",50,52,96.15384615,1,"de","schat",4.0625,4.730769231,6.871192308,5.846153846
+6,"In de zomer neem ik om af te koelen graag een duik bij de buren in","in hun achtertuin.","het zwembad",52,52,100,1,"het","zwembad",3.006,4.326923077,7.045538462,5.673076923
+7,"De fluitketel op het fornuis floot, dus rende mijn moeder snel naar de keuken om het hete water voor","in te schenken.","de thee",48,50,96,1,"de","thee",3.4103,4.44,9.95086,5.58
+8,"Vergeet bij het bereiden van de kip niet het voorverwarmen van","zodat je niet hoeft te wachten.","de oven",50,52,96.15384615,1,"de","oven",2.6375,4.519230769,16.10557692,5.826923077
+9,"Met Kerst kijk ik vaak naar de kerstboom met daaronder","in mooie verpakkingen.","de cadeautjes",37,52,71.15384615,1,"de","cadeautjes",2.5132,4.288461538,80.46255769,5.634615385
+10,"Andr_ is de nieuwe coach van","op zijn volleybalclub.","het team",39,52,75,1,"het","team",3.6989,3.730769231,8.709596154,4.403846154
+11,"Voor haar verjaardag stuurde ik haar een echte papieren kaart, die ik verzond met","naar haar huis.","de post",43,52,82.69230769,1,"de","post",3.2092,3.75,15.48623077,5.269230769
+12,"Omdat het regende, ging Hans toch maar met","naar zijn werk, want hij wilde niet nat worden.","de auto",41,52,78.84615385,1,"de","auto",4.3017,4.730769231,4.774596154,5.711538462
+13,"Ik voelde me al een paar dagen niet zo lekker, dus mijn moeder stuurde me naar","voor de zekerheid.","de dokter",39,52,75,1,"de","dokter",4.0283,4.307692308,7.54125,5.730769231
+16,"Henk begint zijn dag altijd met het lezen van","terwijl hij zijn ontbijt eet.","de krant",47,52,90.38461538,1,"de","krant",3.4059,4.788461538,12.57055769,5.769230769
+17,"Op dates is David een echte heer en schuift hij netjes","van zijn date aan.","de stoel",52,52,100,1,"de","stoel",3.3502,4.634615385,7.677192308,5.730769231
+20,"In de keuken staan nog allemaal vieze borden, maar ik doe","morgen wel.","de afwas",49,52,94.23076923,1,"de","afwas",2.2253,4.865384615,4.892807692,5.942307692
+21,"Tijdens het autorijden moet je je wel goed concentreren op","voor de veiligheid.","de weg",39,52,75,1,"de","weg",4.8115,4.269230769,9.312826923,5.461538462
+22,"De wiskundedocent schreef de moeilijke sommen op","voor zijn leerlingen.","het bord",49,52,94.23076923,1,"het","bord",3.0774,4.596153846,4.552711538,5.846153846
+23,"Nadat de docent de vraag had gesteld, wachtte hij op","van de studenten.","het antwoord",40,52,76.92307692,1,"het","antwoord",3.7873,4.769230769,35.35521154,5.730769231
+24,"Met zulk mooi weer gaan we altijd met een parasol naar","bij ons in de buurt.","het strand",37,51,72.54901961,1,"het","strand",3.2448,4.549019608,5.835745098,5.509803922
+25,"Op zondagochtend zoek ik altijd met mijn hond een grote tak in","om er daarna mee te spelen.","het bos",45,52,86.53846154,1,"het","bos",3.3086,4.673076923,9.344923077,5.75
+26,"Tijdens het kamp waren de jongens hout aan het verzamelen voor","in het bos.","het kampvuur",38,52,73.07692308,1,"het","kampvuur",2.0569,4.307692308,9.687365385,5.653846154
+27,"Op de basisschool speelde ik in de pauze altijd buiten op","met mijn klasgenoten.","het schoolplein",39,52,75,1,"het","schoolplein",1.5911,4.75,5.55875,5.653846154
+28,"Al om half acht 's ochtends stond mijn moeder voor de hele familie eieren te bakken voor","op zondag.","het ontbijt",48,51,94.11764706,1,"het","ontbijt",3.2925,4.294117647,206.4873922,5.235294118
+29,"Mijn gelezen boeken staan op de onderste plank in","op mijn kamer.","de kast",45,51,88.23529412,1,"de","kast",3.1189,4.490196078,54.97107843,5.666666667
+30,"In de winter maken kinderen engelen in","tijdens het buiten spelen.","de sneeuw",52,52,100,1,"de","sneeuw",3.0269,4.615384615,4.488769231,5.730769231
+31,"Toen we terugkwamen van vakantie lag er een hoop post in","thuis.","de brievenbus",36,51,70.58823529,1,"de","brievenbus",2.2718,4.019607843,5.451568627,5.294117647
+32,"Het was nogal donker in de kamer dus ik drukte op het knopje om","aan te doen.","het licht",47,52,90.38461538,1,"het","licht",3.6564,4.75,19.45875,5.903846154
+33,"Om acht uur 's avonds zitten mijn ouders altijd voor de televisie. Ze kijken dan naar","zodat ze op de hoogte blijven van wat er speelt.","het journaal",45,52,86.53846154,1,"het","journaal",2.1139,4.557692308,6.849557692,5.769230769
+34,"Vanavond gaan we vroeg naar bed want morgenochtend gaat om zes uur","en dat is vroeg.","de wekker",51,52,98.07692308,1,"de","wekker",2.1903,4.442307692,11.97386538,5.807692308
+36,"De melk was op, dus dat heb ik nog even snel gehaald in","vlak voor sluitingstijd.","de supermarkt",38,52,73.07692308,1,"de","supermarkt",2.5809,4.403846154,5.889307692,5.769230769
+38,"Na afloop van de voorstelling maakte de toneelgroep een buiging onder luid applaus van","in de zaal.","het publiek",45,48,93.75,1,"het","publiek",3.2629,5.604166667,4.561020833,5.479166667
+39,"De nieuwe film van die acteur draait nu in","in de stad.","de bioscoop",43,49,87.75510204,1,"de","bioscoop",2.6702,5.734693878,3.024326531,5.836734694
+40,"In de zomer zetten wij altijd een groot opblaaszwembad in","om af te koelen.","de tuin",48,49,97.95918367,1,"de","tuin",3.2052,5.87755102,3.884102041,5.918367347
+41,"In het zwembad wordt er altijd goed opgelet door","om zo ongelukken te voorkomen.","de badmeester",41,49,83.67346939,1,"de","badmeester",1.5051,5.530612245,63.02265306,5.510204082
+42,"Toen Martijn ontdekte dat zijn portemonnee was gestolen, belde hij snel","om aangifte te doen.","de politie",49,49,100,1,"de","politie",4.1801,5.775510204,3.379836735,5.857142857
+43,"De laatste gewonnen wedstrijd was voor het voetbalteam de kers op","na een mooi seizoen.","de taart",47,49,95.91836735,1,"de","taart",3.1374,5.775510204,14.87538776,5.714285714
+44,"De juwelier bergt de sieraden 's avonds veilig op in","achter de kassa.","de kluis",45,49,91.83673469,1,"de","kluis",3.1892,5.734693878,5.271816327,5.653061224
+45,"Haar batterij was bijna leeg, dus ze stopte de oplader van haar telefoon in","om deze op te laden.","het stopcontact",44,48,91.66666667,1,"het","stopcontact",1.7559,5.604166667,5.744708333,5.791666667
+46,"Arnold wilde niet dat mensen door het raam naar binnen konden kijken, dus deed hij","dicht.","de gordijnen",40,49,81.63265306,1,"de","gordijnen",2.6117,5.755102041,4.912326531,5.714285714
+47,"Alle net uitgebrachte boeken zijn vaak al binnen twee weken te leen bij","in de stad.","de bibliotheek",43,48,89.58333333,1,"de","bibliotheek",2.9355,5.770833333,3.703854167,5.791666667
+49,"De studenten probeerden met kaas en muizenvallen","te vangen.","de muizen",36,48,75,1,"de","muizen",2.3909,5.583333333,4.9868125,5.708333333
+50,"En ze leefden nog lang en gelukkig' was het einde van","over de prinses en de draak.","het sprookje",36,48,75,1,"het","sprookje",2.4281,5.729166667,4.528604167,5.770833333
+51,"Als ik op vakantie naar een ver land ga, reis ik altijd met","vanaf Schiphol.","het vliegtuig",41,47,87.23404255,1,"het","vliegtuig",3.5947,5.659574468,4.778234043,5.595744681
+53,"In de oldtimer met blikjes eraan zat","onderweg naar hun huwelijksfeest.","het bruidspaar",34,47,72.34042553,1,"het","bruidspaar",1.6232,5.021276596,11.33493617,5.191489362
+54,"Adriaan haalde zijn nieuwe medicijnen op bij","met een herhaalrecept.","de apotheek",43,49,87.75510204,1,"de","apotheek",2.29,5.714285714,14.89893878,5.816326531
+57,"Toen Vincent thuis kwam, hing hij zijn jas aan","in de gang.","de kapstok",48,49,97.95918367,1,"de","kapstok",1.5051,5.93877551,3.123469388,5.836734694
+58,"De poster van mijn lievelingsband hang ik op een mooie plek in mijn kamer aan",", met dubbelzijdig plakband.","de muur",47,49,95.91836735,1,"de","muur",3.4663,5.183673469,5.791102041,5.653061224
+59,"Door de opkomst van de computer, kun je tegenwoordig binnen een paar seconden bijna alle informatie vinden op","zonder al teveel moeite.","het internet",46,47,97.87234043,1,"het","internet",2.8768,5.361702128,6.913276596,5.744680851
+62,"Om de betekenis van dat woord te achterhalen, zocht ze het op in","uit haar moeders boekenkast.","het woordenboek",45,49,91.83673469,1,"het","woordenboek",2.2095,5.755102041,29.60387755,5.693877551
+63,"Verkeersborden zijn heel belangrijk in","voor ieders veiligheid.","het verkeer",45,48,93.75,1,"het","verkeer",2.8254,4.770833333,52.65295833,5.166666667
+64,"De secretaresse van de directeur schreef de notulen tijdens","snel op.","de vergadering",40,48,83.33333333,1,"de","vergadering",3.1455,5.645833333,4.641625,5.583333333
+66,"Veel mensen gaan wekelijks gokken in","maar ze verliezen bijna altijd.","het casino",39,49,79.59183673,1,"het","casino",2.8488,5.591836735,3.368918367,5.571428571
+67,"Tijdens de korte pauze was Aafke nog op het schoolplein toen","al ging.","de bel",45,49,91.83673469,1,"de","bel",4.1345,5.653061224,4.179183673,5.693877551
+68,"Na het dagje uit besloten de dames nog een drankje te doen in","op de hoek van de straat.","het cafe",40,49,81.63265306,1,"het","cafe",1.7559,5.489795918,6.36477551,5.591836735
+69,"Michael heeft net nieuwe boxen voor zijn televisie gekocht waardoor","nu nog beter klinkt.","het geluid",36,46,78.26086957,1,"het","geluid",3.3176,5.652173913,14.35745652,5.391304348
+70,"Andrea en Evelien gingen samen fitnessen in","bij hen in de buurt.","de sportschool",35,49,71.42857143,1,"de","sportschool",2.1399,5.653061224,5.324938776,5.367346939
+74,"Voor ze de deur uitgaat maakt Nikki zichzelf altijd op voor","in haar kamer.","de spiegel",49,52,94.23076923,1,"de","spiegel",3.0795,5.442307692,10.58146154,5.173076923
+75,"December is mijn favoriete maand van","vanwege de sneeuw en de gezelligheid.","het jaar",53,53,100,1,"het","jaar",4.5231,5.773584906,3.204886792,5.905660377
+77,"Alle ingredi•nten voor het gerecht had Lisanne in de keuken op","gelegd.","het aanrecht",48,52,92.30769231,1,"het","aanrecht",1.8633,5.538461538,7.229903846,5.365384615
+79,"Roodkapje liep door het bos naar het huis van haar oma, maar achter de bomen wachtte","op haar.","de wolf",42,45,93.33333333,1,"de","wolf",2.9479,5.6,9.928533333,5.6
+80,"Toen hij hoorde dat hij zijn examen gehaald had, sprong hij een gat in","van blijdschap.","de lucht",53,53,100,1,"de","lucht",3.5903,5.811320755,3.256660377,5.962264151
+83,"Karel heeft honderd euro aan Frank geleend, dus staat Frank nu bij Karel in","en werkt hij hard om het terug te verdienen.","het krijt",40,53,75.47169811,1,"het","krijt",2.7143,5.245283019,28.01349057,5.396226415
+84,"De vergadering ging grotendeels zoals verwacht, alleen het nieuws van Jan kwam nogal onverwachts uit","en dus schrokken wij.","de hoek",43,50,86,1,"de","hoek",3.3393,4.98,8.41626,5.2
+85,"E_n van de meest typische lastdieren in de woestijn is natuurlijk","met zijn bulten.","de kameel",49,52,94.23076923,1,"de","kameel",2.0755,5.461538462,4.786615385,5.576923077
+87,"Nadat ik naar het buitenland vertrok, heb ik nooit meer iets van haar gehoord. Het is bij haar altijd uit het oog uit","en dat vind ik wel heel jammer.","het hart",50,53,94.33962264,1,"het","hart",3.9339,5.433962264,11.67624528,5.528301887
+88,"Het is niet eerlijk om tijdens een ruzie oude koeien uit","te halen.","de sloot",51,53,96.22641509,1,"de","sloot",2.6758,5.905660377,3.469056604,5.943396226
+89,"Sommige mensen hebben altijd pech, die vissen altijd achter","en dat is best sneu.","het net",51,52,98.07692308,1,"het","net",4.6431,5.673076923,5.00775,5.884615385
+90,"Het was snikheet in de auto toen zij in de file stonden, dus zette Fiona","aan.","de airco",41,53,77.35849057,1,"de","airco",2.3139,5.641509434,5.547113208,5.452830189
+92,"De huur van je kamer wordt altijd afgeschreven aan het begin van","waarin je huurt.","de maand",52,53,98.11320755,1,"de","maand",3.6124,5.188679245,6.792169811,5.622641509
+93,"Na het optreden werd de popster met de limousine teruggebracht naar","waar zij sliep.","het hotel",50,53,94.33962264,1,"het","hotel",3.5889,5.58490566,5.768641509,5.58490566
+94,"Nadat de politie dagenlang de verdachte had verhoord, kwam eindelijk de aap uit",", wat het een stuk gemakkelijker maakte om de medeplichtige te vinden.","de mouw",53,53,100,1,"de","mouw",2.2648,5.603773585,5.580264151,5.981132075
+95,"Omdat Peter net de loterij heeft gewonnen smijt hij zijn geld nu over",", omdat het kan.","de balk",46,53,86.79245283,1,"de","balk",1.9031,5.245283019,12.86766038,5.716981132
+97,"Zijn schoolcijfers zijn ontzettend slecht, hij gooit er echt met","naar.","de pet",45,52,86.53846154,1,"de","pet",2.7619,5.538461538,4.171538462,5.538461538
+98,"In het dorp luidt elke zondagochtend de klok van","erg hard.","de kerk",44,53,83.01886792,1,"de","kerk",3.5412,5.094339623,3.32354717,5.622641509
+100,"Op de radio is eerder gemeld dat de wegen glad zouden worden, maar deze waarschuwing sloeg Jan in","toen hij de weg opging.","de wind",46,53,86.79245283,1,"de","wind",3.345,5,16.22341509,5.056603774
+101,"De grote spin in het raam joeg haar de stuipen op","toen ze hem ontdekte.","het lijf",51,53,96.22641509,1,"het","lijf",3.0149,5.660377358,4.000773585,5.886792453
+102,"Iedereen had ontzettend veel zin in de picknick, maar het weer gooide helaas roet in","voor die dag.","het eten",52,53,98.11320755,1,"het","eten",4.2901,5.490566038,5.096528302,5.754716981
+103,"Om de prinses te redden uit de toren moest de ridder het eerst opnemen tegen","maar dat had hij ervoor over.","de draak",39,52,75,1,"de","draak",2.8727,5.019230769,4.41525,5.211538462
+104,"De wandeltocht zou beginnen aan de voet van","om 8 uur 's ochtends.","de berg",46,52,88.46153846,1,"de","berg",3.1764,5.519230769,6.247076923,5.596153846
+105,"De gevangenen bleken ontsnapt te zijn door het doorzagen van","met een nagelvijl.","de tralies",38,53,71.69811321,1,"de","tralies",2.4955,5.188679245,4.925245283,5.20754717
+106,"De schoonmaakster onderhoudt het hele huis behalve de tuin, dat is de taak van","en zijn snoeischaar.","de tuinman",49,53,92.45283019,1,"de","tuinman",2.4099,5.226415094,6.014981132,5.509433962
+107,"Die stunt van Jan ging maar net goed. Hij kroop door het oog van","maar gelukkig mankeert hij niks.","de naald",53,53,100,1,"de","naald",2.5717,5.58490566,4.137773585,5.924528302
+108,"Toen het water voor de pasta begon te koken, haalde ik snel de deksel van","zodat het niet over zou koken.","de pan",55,58,94.82758621,1,"de","pan",2.6138,5.672413793,4.958413793,5.793103448
+109,"Het eerste wat Isabella bekeek in haar nieuwe appartement was het prachtige uitzicht vanaf","vanwaar ze kon uitkijken over de hele stad.","het balkon",44,58,75.86206897,1,"het","balkon",2.4639,5.517241379,14.23046552,5.5
+110,"Bij de opening van de nieuwe brug was de koningin uitgenodigd voor het doorknippen van","en een toespraak.","het lint",44,58,75.86206897,1,"het","lint",2.5441,5.25862069,8.919448276,5.689655172
+111,"Na de salarisonderhandelingen tekende de werknemer","met zijn nieuwe werkgever.","het contract",48,58,82.75862069,1,"het","contract",3.1912,5.672413793,4.743896552,5.655172414
+113,"Tijdens zijn wandeling langs het spoor schrok Jan zich een hoedje door het plotselinge getoeter van","omdat hij helemaal in zijn gedachten verzonken was.","de trein",42,58,72.4137931,1,"de","trein",3.5051,5.293103448,7.089275862,5.534482759
+114,"Voor zijn verjaardag had Hendrik een bioscoopbon gekregen. Een week later ging hij daarmee naar","met zijn vrienden.","de bioscoop",55,58,94.82758621,1,"de","bioscoop",2.6702,5.655172414,10.89444828,5.793103448
+116,"De stroom leek plotseling uitgevallen, dus checkte Karel even de stoppen in","op de gang.","de meterkast",46,58,79.31034483,1,"de","meterkast",1.2788,5.551724138,8.206534483,5.465517241
+117,"Voor de pauze sprak ik met mijn collega's af te gaan lunchen in","op het werk.","de kantine",43,58,74.13793103,1,"de","kantine",2.2989,5.206896552,6.152534483,5.25862069
+118,"De student studeerde de hele nacht voor","van de volgende morgen.","het tentamen",44,58,75.86206897,1,"het","tentamen",1.6902,5.775862069,3.583137931,5.75862069
+120,"Marc had veel te weinig tijd om het hele boek te lezen voor zijn literatuurtentamen en las daarom alleen","op internet, waarin de belangrijkste informatie opgesomd stond.","de samenvatting",41,58,70.68965517,1,"de","samenvatting",1.716,5.603448276,8.738603448,5.706896552
+121,"Agnes was op vakantie erg bruin geworden van","en zag er uitgerust uit.","de zon",45,58,77.5862069,1,"de","zon",3.4777,5.24137931,6.221913793,5.689655172
+122,"Als je altijd te laat thuis bent voor het eten, vind je vaak de hond in","en dan heb je pech.","de pot",49,58,84.48275862,1,"de","pot",3.1271,5.310344828,6.822327586,5.206896552
+123,"Ik vind het erg zielig dat leeuwen in zulke kleine kooien leven in","terwijl het wilde dieren zijn.","de dierentuin",43,51,84.31372549,1,"de","dierentuin",2.6222,5.37254902,13.29884314,5.588235294
+124,"Om die ene lekkere biefstuk te eten spraken Jim en Roos af bij","waar zij graag kwamen.","het restaurant",54,58,93.10344828,1,"het","restaurant",3.262,5.172413793,10.36741379,5.637931034
+125,"Sam lijkt erg op zijn vader, een typisch geval van de appel valt niet ver van","als je het mij vraagt.","de boom",56,56,100,1,"de","boom",3.3591,5.714285714,4.429321429,5.910714286
+126,"Wij wilden op zijn verjaardag proosten. We ontpopten daarom met veel geluid","en zetten de hapjes op tafel.","de champagne",41,54,75.92592593,1,"de","champagne",3.1807,5.12962963,5.888740741,5.388888889
+129,"Sophie dekte de tafel. Ze begon met de borden en de glazen en daarna legde zij keurig","in de juiste volgorde op tafel.","het bestek",57,58,98.27586207,1,"het","bestek",1.9542,5.534482759,9.5935,5.586206897
+130,"Frans en Stijn bezoeken alle wedstrijden van hun favoriete voetbalclub en vertrekken altijd op tijd naar","om een goede plek te bemachtigen.","het stadion",50,58,86.20689655,1,"het","stadion",2.3692,5.75862069,7.04112069,5.672413793
+131,"Tijdens de treinrit werd ons kaartje gecontroleerd door","met de grote snor.","de conducteur",42,58,72.4137931,1,"de","conducteur",1.9395,5.689655172,6.655741379,5.724137931
+132,"Er zijn wel bijna tweehonderd verschillende landen op","waar ik maar slechts een klein deel van heb gezien.","de wereld",50,58,86.20689655,1,"de","wereld",4.2363,4.948275862,7.178034483,5.620689655
+133,"De doktersassistente vroeg mij plaats te nemen in","voordat de dokter mij zou komen halen.","de wachtkamer",45,58,77.5862069,1,"de","wachtkamer",1.9731,5.706896552,4.210741379,5.706896552
+134,"Bart en Sara liepen in het park met hun baby in","naar de vijver.","de kinderwagen",47,57,82.45614035,1,"de","kinderwagen",1.7076,5.087719298,5.669473684,5.140350877
+136,"De trein kwam tien minuten later dan verwacht aan op","van Den Haag.","het station",53,58,91.37931034,1,"het","station",3.0888,5.344827586,5.00912069,5.75862069
+137,"Toen mijn ouders een weekendje weg waren, vroeg mijn vader aan de buurvrouw of zij een oogje in","wilde houden.","het zeil",53,58,91.37931034,1,"het","zeil",2.4814,5.862068966,12.23543103,5.931034483
+140,"De bejaarden bekeken veel schilderijen van Rembrandt die tentoongesteld werden in","in het centrum van de stad.","het museum",52,58,89.65517241,1,"het","museum",2.9201,5.482758621,7.368275862,5.655172414
+141,"Bij thuiskomst stak Dirk de sleutel in","om naar binnen te gaan.","het slot",48,58,82.75862069,1,"het","slot",3.3608,5.431034483,73.59553448,5.689655172
+142,"Meester Jansen werkt al dertig jaar op dezelfde school, hij is echt een oude rot in","en dat merk je wel aan zijn omgang met zijn collega's.","het vak",46,58,79.31034483,1,"het","vak",2.9841,5.224137931,14.84598276,5.206896552
+143,"Auto's and vliegtuigen zijn slecht voor het mileu, dus sommige mensen gaan liever via de Eurotunnel met","naar Engeland.","de trein",32,40,80,1,"de","trein",3.5051,4.102564103,11.0413,5.675
+144,"Er staan lange files voor Zandvoort aan Zee, omdat iedereen lekker wil uitwaaien op","vandaag.","het strand",37,40,92.5,1,"het","strand",3.2448,4.4,8.278925,5.875
+145,"Neem de trap als er brand uitbreekt, want","is buiten gebruik.","de lift",37,40,92.5,1,"de","lift",3.457,4.275,6.779775,5.7
+146,"Je hebt de bus net gemist, dus ik breng je wel even met","naar het station.","de auto",32,40,80,1,"de","auto",4.3017,4.775,5.2401,5.85
+147,"Als je fiets gestolen is, moet je officieel aangifte doen bij","om geld terug te krijgen van de verzekering","de politie",37,40,92.5,1,"de","politie",4.1801,4.625,5.95275,5.9
+148,"Geld sparen in een oude sok is niet meer van deze tijd, je kunt het beter op","zetten.","de bank",28,40,70,1,"de","bank",3.6042,4.512820513,6.9764,5.625
+149,"In de Randstad weten veel kinderen minder over de natuur dan mensen die opgroeien in boerderijen op","in het oosten.","het platteland",32,40,80,1,"het","platteland",2.617,3.775,11.7189,5.025
+150,"Je moet een pak verse melk altijd terugzetten in","om te voorkomen dat het bederft.","de koelkast",37,40,92.5,1,"de","koelkast",2.8116,4.7,5.4791,6
+151,"Ik heb de borden al op tafel gelegd, kun jij uit de bovenste la","pakken en erbij leggen?","het bestek",35,40,87.5,1,"het","bestek",1.9542,4.125,16.5344,5.7
+152,"Mijn hond was ziek dus ik moest ermee naar","vanmorgen.","de dierenarts",34,40,85,1,"de","dierenarts",2.415,4.45,4.263975,5.825
+153,"In Mexico zijn drie criminelen ontsnapt uit","gisteren.","de gevangenis",37,40,92.5,1,"de","gevangenis",3.6616,3.6,7.69505,5.85
+154,"Als iedereen na de crisis weer meer geld gaat investeren zal het snel beter gaan met","van het land.","de economie",37,40,92.5,1,"de","economie",2.5658,4.475,7.952725,5.625
+155,"Volgens de Sinterklaastraditie in Nederland komt Zwarte Piet vanaf het dak door","het huis binnen om cadeautjes te brengen.","de schoorsteen",37,40,92.5,1,"de","schoorsteen",2.2788,4.55,9.010025,5.825
+156,"De overvallers stormden de winkel binnen en gingen direct naar de kassa's om","te stelen.","het geld",30,40,75,1,"het","geld",4.5404,4.125,7.962775,5.5
+157,"Ik heb 2 vrijkaartjes voor de bioscoop; het je zin om mee te gaan naar","volgende week?","de film",30,40,75,1,"de","film",3.8821,4.25,6.958725,5.5
+158,"Dit is de hit die je het meest hoort op","tegenwoordig.","de radio",38,40,95,1,"de","radio",3.4096,4.35,5.123925,5.8
+159,"Ik heb geen tuin, want ik woon in een flat, maar ik kan in de zomer wel altijd lekker op","zitten.","het balkon",32,40,80,1,"het","balkon",2.4639,4.6,8.54875,5.8
+160,"De koude lucht uit Belgií‚ zal zich vanuit het zuiden gaan verspreiden in de rest van","morgen.","het land",33,40,82.5,1,"het","land",4.0282,3.375,12.26315,5.1
+161,"Op zondag leest mijn vader altijd uitgebreid","bij het ontbijt.","de krant",35,40,87.5,1,"de","krant",3.4059,4.75,4.311825,5.85

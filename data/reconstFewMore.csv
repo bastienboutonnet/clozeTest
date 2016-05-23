@@ -1,0 +1,780 @@
+subj_id,qual_col,Completion,measure,row,sentID
+R_1AeLfMZXZ76HTHz,Comp(1),sd,Comp,1,143
+R_vrAH2qrxu41QSv7,Comp(1),de trein,Comp,1,143
+R_6Pg4ql6MQumxZo9,Comp(1),de trein,Comp,1,143
+R_1QaBlAsk46HI9NJ,Comp(1),de fiets,Comp,1,143
+R_pKtuHvEeh5mujgl,Comp(1),de auto,Comp,1,143
+R_RrYmeJDnKB3hv7r,Comp(1),de trein,Comp,1,143
+R_2alPe2ZkILnzWYp,Comp(1),de trein,Comp,1,143
+R_24zMzQY1U9LX5Gf,Comp(1),de trein,Comp,1,143
+R_2zAp7MZjWbJtouD,Comp(1),de trein,Comp,1,143
+R_1lgea30X5yRbWgb,Comp(1),Auto,Comp,1,143
+R_1dg0dAPlymYfFcu,Comp(1),de trein,Comp,1,143
+R_23TSscPxb3G1aSA,Comp(1),trein,Comp,1,143
+R_3effdDALVVpFhkK,Comp(1),de trein,Comp,1,143
+R_2PpvbvcItA8LcqM,Comp(1),de trein,Comp,1,143
+R_25WvorTEPc7DuHX,Comp(1),de trein,Comp,1,143
+R_ZJCIt5D6m80Wim5,Comp(1),De trein,Comp,1,143
+R_6gQpeEEoAOw1CNz,Comp(1),de auto,Comp,1,143
+R_UcJP3naTdDXJEDn,Comp(1),De trein,Comp,1,143
+R_21pKbw8vqrjpJ4Q,Comp(1),de trein,Comp,1,143
+R_1HiWKvIl546M44z,Comp(1),de trein,Comp,1,143
+R_BFIiDPrnKiKOhkB,Comp(1),de trein,Comp,1,143
+R_232AZeZQOdbRSAK,Comp(1),de trein,Comp,1,143
+R_1odMwWpdALe3A7c,Comp(1),de trein,Comp,1,143
+R_3CMZ1prTdwstnIi,Comp(1),de trein ,Comp,1,143
+R_2SDkvNUYWKzQ9b4,Comp(1),de trein,Comp,1,143
+R_2qwqWlqovi1EnxK,Comp(1),de trein,Comp,1,143
+R_1nSW9rReHHlwpSQ,Comp(1),De trein,Comp,1,143
+R_3FPt6NNv7fs4bHV,Comp(1),de trein,Comp,1,143
+R_2uOs8d5Okoyss7z,Comp(1),de trein,Comp,1,143
+R_1JEdl2aEMuUO63f,Comp(1),de auto,Comp,1,143
+R_6L3ln2BoQAzJw2d,Comp(1),de trein,Comp,1,143
+R_xAA7goWcKMvmb1D,Comp(1),de trein,Comp,1,143
+R_248iCMeSwyLS8sF,Comp(1),de trein,Comp,1,143
+R_OING4tGkg3q8VLb,Comp(1),de veerboot,Comp,1,143
+R_3kvbwPackXPANmo,Comp(1),de trein,Comp,1,143
+R_3lRiG6M8Z6vKWZh,Comp(1),de trein,Comp,1,143
+R_3q9cZ9NJjEx872v,Comp(1),de trein,Comp,1,143
+R_ABt8n7PxUqkXqy5,Comp(1),De bus,Comp,1,143
+R_3k6rPDoCD4kup7x,Comp(1),de trein,Comp,1,143
+R_p6iBXJstulO97Jn,Comp(1),De trein,Comp,1,143
+R_USFewLQTXHp0kPT,Comp(1),de trein,Comp,1,143
+R_1AeLfMZXZ76HTHz,Comp(2),sd,Comp,2,144
+R_vrAH2qrxu41QSv7,Comp(2),het strand,Comp,2,144
+R_6Pg4ql6MQumxZo9,Comp(2),het strand,Comp,2,144
+R_1QaBlAsk46HI9NJ,Comp(2),het strand,Comp,2,144
+R_pKtuHvEeh5mujgl,Comp(2),het strand,Comp,2,144
+R_RrYmeJDnKB3hv7r,Comp(2),het strand,Comp,2,144
+R_2alPe2ZkILnzWYp,Comp(2),het strand,Comp,2,144
+R_24zMzQY1U9LX5Gf,Comp(2),het strand,Comp,2,144
+R_2zAp7MZjWbJtouD,Comp(2),het strand,Comp,2,144
+R_1lgea30X5yRbWgb,Comp(2),Strand,Comp,2,144
+R_1dg0dAPlymYfFcu,Comp(2),het strand,Comp,2,144
+R_23TSscPxb3G1aSA,Comp(2),strand,Comp,2,144
+R_3effdDALVVpFhkK,Comp(2),het strand ,Comp,2,144
+R_2PpvbvcItA8LcqM,Comp(2),het strand,Comp,2,144
+R_25WvorTEPc7DuHX,Comp(2),het strand,Comp,2,144
+R_ZJCIt5D6m80Wim5,Comp(2),Het strand,Comp,2,144
+R_6gQpeEEoAOw1CNz,Comp(2),het strand,Comp,2,144
+R_UcJP3naTdDXJEDn,Comp(2),Het strand,Comp,2,144
+R_21pKbw8vqrjpJ4Q,Comp(2),het strand,Comp,2,144
+R_1HiWKvIl546M44z,Comp(2),het strand,Comp,2,144
+R_BFIiDPrnKiKOhkB,Comp(2),het strand,Comp,2,144
+R_232AZeZQOdbRSAK,Comp(2),het strand,Comp,2,144
+R_1odMwWpdALe3A7c,Comp(2),het strand,Comp,2,144
+R_3CMZ1prTdwstnIi,Comp(2),het strand ,Comp,2,144
+R_2SDkvNUYWKzQ9b4,Comp(2),het strand,Comp,2,144
+R_2qwqWlqovi1EnxK,Comp(2),het strand,Comp,2,144
+R_1nSW9rReHHlwpSQ,Comp(2),Het strand ,Comp,2,144
+R_3FPt6NNv7fs4bHV,Comp(2),het strand,Comp,2,144
+R_2uOs8d5Okoyss7z,Comp(2),het strand,Comp,2,144
+R_1JEdl2aEMuUO63f,Comp(2),het strand,Comp,2,144
+R_6L3ln2BoQAzJw2d,Comp(2),het strand,Comp,2,144
+R_xAA7goWcKMvmb1D,Comp(2),het strand,Comp,2,144
+R_248iCMeSwyLS8sF,Comp(2),het strand,Comp,2,144
+R_OING4tGkg3q8VLb,Comp(2),het vliegveld,Comp,2,144
+R_3kvbwPackXPANmo,Comp(2),het strand,Comp,2,144
+R_3lRiG6M8Z6vKWZh,Comp(2),het strand,Comp,2,144
+R_3q9cZ9NJjEx872v,Comp(2),het strand,Comp,2,144
+R_ABt8n7PxUqkXqy5,Comp(2),Het strand,Comp,2,144
+R_3k6rPDoCD4kup7x,Comp(2),het strand,Comp,2,144
+R_p6iBXJstulO97Jn,Comp(2),Het strand,Comp,2,144
+R_USFewLQTXHp0kPT,Comp(2),het strand,Comp,2,144
+R_1AeLfMZXZ76HTHz,Comp(3),sd,Comp,3,145
+R_vrAH2qrxu41QSv7,Comp(3),de lift,Comp,3,145
+R_6Pg4ql6MQumxZo9,Comp(3),de lift,Comp,3,145
+R_1QaBlAsk46HI9NJ,Comp(3),de lift,Comp,3,145
+R_pKtuHvEeh5mujgl,Comp(3),de lift,Comp,3,145
+R_RrYmeJDnKB3hv7r,Comp(3),de lift ,Comp,3,145
+R_2alPe2ZkILnzWYp,Comp(3),de lift,Comp,3,145
+R_24zMzQY1U9LX5Gf,Comp(3),de lift,Comp,3,145
+R_2zAp7MZjWbJtouD,Comp(3),de lift,Comp,3,145
+R_1lgea30X5yRbWgb,Comp(3),Lift,Comp,3,145
+R_1dg0dAPlymYfFcu,Comp(3),de lift,Comp,3,145
+R_23TSscPxb3G1aSA,Comp(3),lift,Comp,3,145
+R_3effdDALVVpFhkK,Comp(3),de lift,Comp,3,145
+R_2PpvbvcItA8LcqM,Comp(3),de lift,Comp,3,145
+R_25WvorTEPc7DuHX,Comp(3),de lift,Comp,3,145
+R_ZJCIt5D6m80Wim5,Comp(3),De lift,Comp,3,145
+R_6gQpeEEoAOw1CNz,Comp(3),de lift,Comp,3,145
+R_UcJP3naTdDXJEDn,Comp(3),De lift,Comp,3,145
+R_21pKbw8vqrjpJ4Q,Comp(3),de lift,Comp,3,145
+R_1HiWKvIl546M44z,Comp(3),de lift,Comp,3,145
+R_BFIiDPrnKiKOhkB,Comp(3),de lift ,Comp,3,145
+R_232AZeZQOdbRSAK,Comp(3),de lift,Comp,3,145
+R_1odMwWpdALe3A7c,Comp(3),de lift,Comp,3,145
+R_3CMZ1prTdwstnIi,Comp(3),de lift ,Comp,3,145
+R_2SDkvNUYWKzQ9b4,Comp(3),de lift,Comp,3,145
+R_2qwqWlqovi1EnxK,Comp(3),de lift,Comp,3,145
+R_1nSW9rReHHlwpSQ,Comp(3),De lift ,Comp,3,145
+R_3FPt6NNv7fs4bHV,Comp(3),de lift,Comp,3,145
+R_2uOs8d5Okoyss7z,Comp(3),de lift,Comp,3,145
+R_1JEdl2aEMuUO63f,Comp(3),de lift,Comp,3,145
+R_6L3ln2BoQAzJw2d,Comp(3),de lift,Comp,3,145
+R_xAA7goWcKMvmb1D,Comp(3),de lift,Comp,3,145
+R_248iCMeSwyLS8sF,Comp(3),de lift,Comp,3,145
+R_OING4tGkg3q8VLb,Comp(3),de lift,Comp,3,145
+R_3kvbwPackXPANmo,Comp(3),de lift,Comp,3,145
+R_3lRiG6M8Z6vKWZh,Comp(3),de lift,Comp,3,145
+R_3q9cZ9NJjEx872v,Comp(3),de deur,Comp,3,145
+R_ABt8n7PxUqkXqy5,Comp(3),De lift,Comp,3,145
+R_3k6rPDoCD4kup7x,Comp(3),de lift,Comp,3,145
+R_p6iBXJstulO97Jn,Comp(3),de lift,Comp,3,145
+R_USFewLQTXHp0kPT,Comp(3),de lift,Comp,3,145
+R_1AeLfMZXZ76HTHz,Comp(4),sd,Comp,4,146
+R_vrAH2qrxu41QSv7,Comp(4),de auto,Comp,4,146
+R_6Pg4ql6MQumxZo9,Comp(4),de auto,Comp,4,146
+R_1QaBlAsk46HI9NJ,Comp(4),de auto,Comp,4,146
+R_pKtuHvEeh5mujgl,Comp(4),de auto,Comp,4,146
+R_RrYmeJDnKB3hv7r,Comp(4),de auto,Comp,4,146
+R_2alPe2ZkILnzWYp,Comp(4),de auto,Comp,4,146
+R_24zMzQY1U9LX5Gf,Comp(4),de fiets,Comp,4,146
+R_2zAp7MZjWbJtouD,Comp(4),de auto,Comp,4,146
+R_1lgea30X5yRbWgb,Comp(4),Auto,Comp,4,146
+R_1dg0dAPlymYfFcu,Comp(4),de auto,Comp,4,146
+R_23TSscPxb3G1aSA,Comp(4),auto,Comp,4,146
+R_3effdDALVVpFhkK,Comp(4),de brommer,Comp,4,146
+R_2PpvbvcItA8LcqM,Comp(4),de auto,Comp,4,146
+R_25WvorTEPc7DuHX,Comp(4),de auto,Comp,4,146
+R_ZJCIt5D6m80Wim5,Comp(4),De auto,Comp,4,146
+R_6gQpeEEoAOw1CNz,Comp(4),de auto,Comp,4,146
+R_UcJP3naTdDXJEDn,Comp(4),De auto ,Comp,4,146
+R_21pKbw8vqrjpJ4Q,Comp(4),de auto,Comp,4,146
+R_1HiWKvIl546M44z,Comp(4),de auto,Comp,4,146
+R_BFIiDPrnKiKOhkB,Comp(4),de auto,Comp,4,146
+R_232AZeZQOdbRSAK,Comp(4),de fiets,Comp,4,146
+R_1odMwWpdALe3A7c,Comp(4),de auto,Comp,4,146
+R_3CMZ1prTdwstnIi,Comp(4),de auto ,Comp,4,146
+R_2SDkvNUYWKzQ9b4,Comp(4),de auto,Comp,4,146
+R_2qwqWlqovi1EnxK,Comp(4),de auto,Comp,4,146
+R_1nSW9rReHHlwpSQ,Comp(4),De auto,Comp,4,146
+R_3FPt6NNv7fs4bHV,Comp(4),de fiets,Comp,4,146
+R_2uOs8d5Okoyss7z,Comp(4),de auto,Comp,4,146
+R_1JEdl2aEMuUO63f,Comp(4),de auto,Comp,4,146
+R_6L3ln2BoQAzJw2d,Comp(4),de auto,Comp,4,146
+R_xAA7goWcKMvmb1D,Comp(4),de fiets,Comp,4,146
+R_248iCMeSwyLS8sF,Comp(4),de tuk-tuk,Comp,4,146
+R_OING4tGkg3q8VLb,Comp(4),de auto,Comp,4,146
+R_3kvbwPackXPANmo,Comp(4),de auto,Comp,4,146
+R_3lRiG6M8Z6vKWZh,Comp(4),de auto,Comp,4,146
+R_3q9cZ9NJjEx872v,Comp(4),de auto,Comp,4,146
+R_ABt8n7PxUqkXqy5,Comp(4),De auto,Comp,4,146
+R_3k6rPDoCD4kup7x,Comp(4),de auto,Comp,4,146
+R_p6iBXJstulO97Jn,Comp(4),De auto,Comp,4,146
+R_USFewLQTXHp0kPT,Comp(4),de auto,Comp,4,146
+R_1AeLfMZXZ76HTHz,Comp(5),sd,Comp,5,147
+R_vrAH2qrxu41QSv7,Comp(5),de politie,Comp,5,147
+R_6Pg4ql6MQumxZo9,Comp(5),de politie,Comp,5,147
+R_1QaBlAsk46HI9NJ,Comp(5),de politie,Comp,5,147
+R_pKtuHvEeh5mujgl,Comp(5),de politie,Comp,5,147
+R_RrYmeJDnKB3hv7r,Comp(5),de politie ,Comp,5,147
+R_2alPe2ZkILnzWYp,Comp(5),de politie,Comp,5,147
+R_24zMzQY1U9LX5Gf,Comp(5),de politie,Comp,5,147
+R_2zAp7MZjWbJtouD,Comp(5),de politie,Comp,5,147
+R_1lgea30X5yRbWgb,Comp(5),Politie,Comp,5,147
+R_1dg0dAPlymYfFcu,Comp(5),de politie,Comp,5,147
+R_23TSscPxb3G1aSA,Comp(5),politie,Comp,5,147
+R_3effdDALVVpFhkK,Comp(5),de politie ,Comp,5,147
+R_2PpvbvcItA8LcqM,Comp(5),de politie,Comp,5,147
+R_25WvorTEPc7DuHX,Comp(5),de politie,Comp,5,147
+R_ZJCIt5D6m80Wim5,Comp(5),De politie,Comp,5,147
+R_6gQpeEEoAOw1CNz,Comp(5),de politie ,Comp,5,147
+R_UcJP3naTdDXJEDn,Comp(5),De politie ,Comp,5,147
+R_21pKbw8vqrjpJ4Q,Comp(5),de politie,Comp,5,147
+R_1HiWKvIl546M44z,Comp(5),de politie,Comp,5,147
+R_BFIiDPrnKiKOhkB,Comp(5),de politie,Comp,5,147
+R_232AZeZQOdbRSAK,Comp(5),de politie,Comp,5,147
+R_1odMwWpdALe3A7c,Comp(5),de politie,Comp,5,147
+R_3CMZ1prTdwstnIi,Comp(5),de politie ,Comp,5,147
+R_2SDkvNUYWKzQ9b4,Comp(5),de politie,Comp,5,147
+R_2qwqWlqovi1EnxK,Comp(5),de politie,Comp,5,147
+R_1nSW9rReHHlwpSQ,Comp(5),De politie ,Comp,5,147
+R_3FPt6NNv7fs4bHV,Comp(5),de politie,Comp,5,147
+R_2uOs8d5Okoyss7z,Comp(5),de politie ,Comp,5,147
+R_1JEdl2aEMuUO63f,Comp(5),de politie ,Comp,5,147
+R_6L3ln2BoQAzJw2d,Comp(5),de politie,Comp,5,147
+R_xAA7goWcKMvmb1D,Comp(5),de politie,Comp,5,147
+R_248iCMeSwyLS8sF,Comp(5),de politie,Comp,5,147
+R_OING4tGkg3q8VLb,Comp(5),de verzekeraar,Comp,5,147
+R_3kvbwPackXPANmo,Comp(5),de politie,Comp,5,147
+R_3lRiG6M8Z6vKWZh,Comp(5),de politie,Comp,5,147
+R_3q9cZ9NJjEx872v,Comp(5),de politie,Comp,5,147
+R_ABt8n7PxUqkXqy5,Comp(5),De politie,Comp,5,147
+R_3k6rPDoCD4kup7x,Comp(5),de politie,Comp,5,147
+R_p6iBXJstulO97Jn,Comp(5),De politie,Comp,5,147
+R_USFewLQTXHp0kPT,Comp(5),de politie,Comp,5,147
+R_1AeLfMZXZ76HTHz,Comp(6),sd,Comp,6,148
+R_vrAH2qrxu41QSv7,Comp(6),de bank,Comp,6,148
+R_6Pg4ql6MQumxZo9,Comp(6),de bank,Comp,6,148
+R_1QaBlAsk46HI9NJ,Comp(6),de bank,Comp,6,148
+R_pKtuHvEeh5mujgl,Comp(6),de bank,Comp,6,148
+R_RrYmeJDnKB3hv7r,Comp(6),de bank,Comp,6,148
+R_2alPe2ZkILnzWYp,Comp(6),een spaarrekening,Comp,6,148
+R_24zMzQY1U9LX5Gf,Comp(6),een spaarrekening,Comp,6,148
+R_2zAp7MZjWbJtouD,Comp(6),de bank ,Comp,6,148
+R_1lgea30X5yRbWgb,Comp(6),Spaarrekening,Comp,6,148
+R_1dg0dAPlymYfFcu,Comp(6),de bank,Comp,6,148
+R_23TSscPxb3G1aSA,Comp(6),Bank,Comp,6,148
+R_3effdDALVVpFhkK,Comp(6),de bank,Comp,6,148
+R_2PpvbvcItA8LcqM,Comp(6),je rekening,Comp,6,148
+R_25WvorTEPc7DuHX,Comp(6),de bank,Comp,6,148
+R_ZJCIt5D6m80Wim5,Comp(6),Een spaarrekening,Comp,6,148
+R_6gQpeEEoAOw1CNz,Comp(6),de bank,Comp,6,148
+R_UcJP3naTdDXJEDn,Comp(6),De bank,Comp,6,148
+R_21pKbw8vqrjpJ4Q,Comp(6),de bank,Comp,6,148
+R_1HiWKvIl546M44z,Comp(6),een spaarrekening,Comp,6,148
+R_BFIiDPrnKiKOhkB,Comp(6),een spaarrekening,Comp,6,148
+R_232AZeZQOdbRSAK,Comp(6),de bank,Comp,6,148
+R_1odMwWpdALe3A7c,Comp(6),de bank,Comp,6,148
+R_3CMZ1prTdwstnIi,Comp(6),een spaarrekening,Comp,6,148
+R_2SDkvNUYWKzQ9b4,Comp(6),de bank,Comp,6,148
+R_2qwqWlqovi1EnxK,Comp(6),de bank,Comp,6,148
+R_1nSW9rReHHlwpSQ,Comp(6),De bank,Comp,6,148
+R_3FPt6NNv7fs4bHV,Comp(6),de bank,Comp,6,148
+R_2uOs8d5Okoyss7z,Comp(6),de bank,Comp,6,148
+R_1JEdl2aEMuUO63f,Comp(6),de bank,Comp,6,148
+R_6L3ln2BoQAzJw2d,Comp(6),de bank,Comp,6,148
+R_xAA7goWcKMvmb1D,Comp(6),je rekening,Comp,6,148
+R_248iCMeSwyLS8sF,Comp(6),de bank,Comp,6,148
+R_OING4tGkg3q8VLb,Comp(6),de rekening,Comp,6,148
+R_3kvbwPackXPANmo,Comp(6),de bank,Comp,6,148
+R_3lRiG6M8Z6vKWZh,Comp(6),de bank,Comp,6,148
+R_3q9cZ9NJjEx872v,Comp(6),de bank,Comp,6,148
+R_ABt8n7PxUqkXqy5,Comp(6),De bank ,Comp,6,148
+R_3k6rPDoCD4kup7x,Comp(6),de bank,Comp,6,148
+R_p6iBXJstulO97Jn,Comp(6),Een bankrekening,Comp,6,148
+R_USFewLQTXHp0kPT,Comp(6),de bank,Comp,6,148
+R_1AeLfMZXZ76HTHz,Comp(7),sd,Comp,7,149
+R_vrAH2qrxu41QSv7,Comp(7),het platteland,Comp,7,149
+R_6Pg4ql6MQumxZo9,Comp(7),het platteland,Comp,7,149
+R_1QaBlAsk46HI9NJ,Comp(7),het platteland,Comp,7,149
+R_pKtuHvEeh5mujgl,Comp(7),het platteland,Comp,7,149
+R_RrYmeJDnKB3hv7r,Comp(7),het platteland ,Comp,7,149
+R_2alPe2ZkILnzWYp,Comp(7),het platteland,Comp,7,149
+R_24zMzQY1U9LX5Gf,Comp(7),het platteland,Comp,7,149
+R_2zAp7MZjWbJtouD,Comp(7),het land,Comp,7,149
+R_1lgea30X5yRbWgb,Comp(7),Platteland,Comp,7,149
+R_1dg0dAPlymYfFcu,Comp(7),het platteland,Comp,7,149
+R_23TSscPxb3G1aSA,Comp(7),platteland,Comp,7,149
+R_3effdDALVVpFhkK,Comp(7),de veluwe,Comp,7,149
+R_2PpvbvcItA8LcqM,Comp(7),het platteland,Comp,7,149
+R_25WvorTEPc7DuHX,Comp(7),het platteland,Comp,7,149
+R_ZJCIt5D6m80Wim5,Comp(7),Het platteland,Comp,7,149
+R_6gQpeEEoAOw1CNz,Comp(7),het platteland,Comp,7,149
+R_UcJP3naTdDXJEDn,Comp(7),Het platteland ,Comp,7,149
+R_21pKbw8vqrjpJ4Q,Comp(7),het platteland,Comp,7,149
+R_1HiWKvIl546M44z,Comp(7),de plaatsen,Comp,7,149
+R_BFIiDPrnKiKOhkB,Comp(7),GI,Comp,7,149
+R_232AZeZQOdbRSAK,Comp(7),het platteland,Comp,7,149
+R_1odMwWpdALe3A7c,Comp(7),het platteland,Comp,7,149
+R_3CMZ1prTdwstnIi,Comp(7),het platteland,Comp,7,149
+R_2SDkvNUYWKzQ9b4,Comp(7),het platteland,Comp,7,149
+R_2qwqWlqovi1EnxK,Comp(7),het platteland,Comp,7,149
+R_1nSW9rReHHlwpSQ,Comp(7),Het platteland ,Comp,7,149
+R_3FPt6NNv7fs4bHV,Comp(7),het platteland,Comp,7,149
+R_2uOs8d5Okoyss7z,Comp(7),het platteland ,Comp,7,149
+R_1JEdl2aEMuUO63f,Comp(7),het platteland,Comp,7,149
+R_6L3ln2BoQAzJw2d,Comp(7),het platteland,Comp,7,149
+R_xAA7goWcKMvmb1D,Comp(7),het platteland,Comp,7,149
+R_248iCMeSwyLS8sF,Comp(7),het boerengat,Comp,7,149
+R_OING4tGkg3q8VLb,Comp(7),een land,Comp,7,149
+R_3kvbwPackXPANmo,Comp(7),het platteland,Comp,7,149
+R_3lRiG6M8Z6vKWZh,Comp(7),het platteland,Comp,7,149
+R_3q9cZ9NJjEx872v,Comp(7),het platteland,Comp,7,149
+R_ABt8n7PxUqkXqy5,Comp(7),Het platteland ,Comp,7,149
+R_3k6rPDoCD4kup7x,Comp(7),het platteland,Comp,7,149
+R_p6iBXJstulO97Jn,Comp(7),Het platteland,Comp,7,149
+R_USFewLQTXHp0kPT,Comp(7),het platteland,Comp,7,149
+R_1AeLfMZXZ76HTHz,Comp(8),sd,Comp,8,150
+R_vrAH2qrxu41QSv7,Comp(8),de koelkast,Comp,8,150
+R_6Pg4ql6MQumxZo9,Comp(8),de koelkast,Comp,8,150
+R_1QaBlAsk46HI9NJ,Comp(8),de koelkast,Comp,8,150
+R_pKtuHvEeh5mujgl,Comp(8),de koelkast,Comp,8,150
+R_RrYmeJDnKB3hv7r,Comp(8),de koelkast ,Comp,8,150
+R_2alPe2ZkILnzWYp,Comp(8),de koelkast,Comp,8,150
+R_24zMzQY1U9LX5Gf,Comp(8),koelkast,Comp,8,150
+R_2zAp7MZjWbJtouD,Comp(8),de koelkast ,Comp,8,150
+R_1lgea30X5yRbWgb,Comp(8),Koelkast,Comp,8,150
+R_1dg0dAPlymYfFcu,Comp(8),de koelkast,Comp,8,150
+R_23TSscPxb3G1aSA,Comp(8),koelkast,Comp,8,150
+R_3effdDALVVpFhkK,Comp(8),de koelkast,Comp,8,150
+R_2PpvbvcItA8LcqM,Comp(8),de koelkast,Comp,8,150
+R_25WvorTEPc7DuHX,Comp(8),de koelkast,Comp,8,150
+R_ZJCIt5D6m80Wim5,Comp(8),De koelkast,Comp,8,150
+R_6gQpeEEoAOw1CNz,Comp(8),de koelkast,Comp,8,150
+R_UcJP3naTdDXJEDn,Comp(8),De koelkast ,Comp,8,150
+R_21pKbw8vqrjpJ4Q,Comp(8),de koelkast,Comp,8,150
+R_1HiWKvIl546M44z,Comp(8),de koelkast,Comp,8,150
+R_BFIiDPrnKiKOhkB,Comp(8),de koelkast ,Comp,8,150
+R_232AZeZQOdbRSAK,Comp(8),de koelkast,Comp,8,150
+R_1odMwWpdALe3A7c,Comp(8),de koelkast,Comp,8,150
+R_3CMZ1prTdwstnIi,Comp(8),de koelkast ,Comp,8,150
+R_2SDkvNUYWKzQ9b4,Comp(8),de koelkast,Comp,8,150
+R_2qwqWlqovi1EnxK,Comp(8),de koelkast,Comp,8,150
+R_1nSW9rReHHlwpSQ,Comp(8),De koelkast ,Comp,8,150
+R_3FPt6NNv7fs4bHV,Comp(8),de koelkast,Comp,8,150
+R_2uOs8d5Okoyss7z,Comp(8),de koelkast,Comp,8,150
+R_1JEdl2aEMuUO63f,Comp(8),de koelkast,Comp,8,150
+R_6L3ln2BoQAzJw2d,Comp(8),de koelkast,Comp,8,150
+R_xAA7goWcKMvmb1D,Comp(8),de koelkast,Comp,8,150
+R_248iCMeSwyLS8sF,Comp(8),de koelkast,Comp,8,150
+R_OING4tGkg3q8VLb,Comp(8),de koelkast,Comp,8,150
+R_3kvbwPackXPANmo,Comp(8),de koelkast,Comp,8,150
+R_3lRiG6M8Z6vKWZh,Comp(8),de koelkast,Comp,8,150
+R_3q9cZ9NJjEx872v,Comp(8),de koelkast,Comp,8,150
+R_ABt8n7PxUqkXqy5,Comp(8),De koelkast,Comp,8,150
+R_3k6rPDoCD4kup7x,Comp(8),de koelkast,Comp,8,150
+R_p6iBXJstulO97Jn,Comp(8),de koelkast,Comp,8,150
+R_USFewLQTXHp0kPT,Comp(8),de koelkast,Comp,8,150
+R_1AeLfMZXZ76HTHz,Comp(9),sd,Comp,9,151
+R_vrAH2qrxu41QSv7,Comp(9),de vorken,Comp,9,151
+R_6Pg4ql6MQumxZo9,Comp(9),het bestek,Comp,9,151
+R_1QaBlAsk46HI9NJ,Comp(9),het bestek,Comp,9,151
+R_pKtuHvEeh5mujgl,Comp(9),het bestek,Comp,9,151
+R_RrYmeJDnKB3hv7r,Comp(9),het bestek,Comp,9,151
+R_2alPe2ZkILnzWYp,Comp(9),het bestek,Comp,9,151
+R_24zMzQY1U9LX5Gf,Comp(9),het bestek,Comp,9,151
+R_2zAp7MZjWbJtouD,Comp(9),het bestek,Comp,9,151
+R_1lgea30X5yRbWgb,Comp(9),Bestek,Comp,9,151
+R_1dg0dAPlymYfFcu,Comp(9),het bestek,Comp,9,151
+R_23TSscPxb3G1aSA,Comp(9),bestek,Comp,9,151
+R_3effdDALVVpFhkK,Comp(9),het bestek ,Comp,9,151
+R_2PpvbvcItA8LcqM,Comp(9),het bestek,Comp,9,151
+R_25WvorTEPc7DuHX,Comp(9),het bestek,Comp,9,151
+R_ZJCIt5D6m80Wim5,Comp(9),Het bestek,Comp,9,151
+R_6gQpeEEoAOw1CNz,Comp(9),een opscheplepel,Comp,9,151
+R_UcJP3naTdDXJEDn,Comp(9),Het bestek,Comp,9,151
+R_21pKbw8vqrjpJ4Q,Comp(9),het bestek,Comp,9,151
+R_1HiWKvIl546M44z,Comp(9),het bestek,Comp,9,151
+R_BFIiDPrnKiKOhkB,Comp(9),het bestek,Comp,9,151
+R_232AZeZQOdbRSAK,Comp(9),het bestek,Comp,9,151
+R_1odMwWpdALe3A7c,Comp(9),het bestek,Comp,9,151
+R_3CMZ1prTdwstnIi,Comp(9),bestek ,Comp,9,151
+R_2SDkvNUYWKzQ9b4,Comp(9),het bestek,Comp,9,151
+R_2qwqWlqovi1EnxK,Comp(9),het bestek,Comp,9,151
+R_1nSW9rReHHlwpSQ,Comp(9),Het bestek,Comp,9,151
+R_3FPt6NNv7fs4bHV,Comp(9),het bestek,Comp,9,151
+R_2uOs8d5Okoyss7z,Comp(9),het bestek,Comp,9,151
+R_1JEdl2aEMuUO63f,Comp(9),het bestek,Comp,9,151
+R_6L3ln2BoQAzJw2d,Comp(9),het bestek,Comp,9,151
+R_xAA7goWcKMvmb1D,Comp(9),het bestek,Comp,9,151
+R_248iCMeSwyLS8sF,Comp(9),het bestek,Comp,9,151
+R_OING4tGkg3q8VLb,Comp(9),het bestek,Comp,9,151
+R_3kvbwPackXPANmo,Comp(9),het bestek,Comp,9,151
+R_3lRiG6M8Z6vKWZh,Comp(9),het bestek,Comp,9,151
+R_3q9cZ9NJjEx872v,Comp(9),het bestek,Comp,9,151
+R_ABt8n7PxUqkXqy5,Comp(9),Het bestek,Comp,9,151
+R_3k6rPDoCD4kup7x,Comp(9),het bestek,Comp,9,151
+R_p6iBXJstulO97Jn,Comp(9),Het bestek,Comp,9,151
+R_USFewLQTXHp0kPT,Comp(9),het bestek,Comp,9,151
+R_1AeLfMZXZ76HTHz,Comp(10),sd,Comp,10,152
+R_vrAH2qrxu41QSv7,Comp(10),de dierenartd,Comp,10,152
+R_6Pg4ql6MQumxZo9,Comp(10),de dokter,Comp,10,152
+R_1QaBlAsk46HI9NJ,Comp(10),de dierenarts,Comp,10,152
+R_pKtuHvEeh5mujgl,Comp(10),de dierenarts,Comp,10,152
+R_RrYmeJDnKB3hv7r,Comp(10),de dierenarts,Comp,10,152
+R_2alPe2ZkILnzWYp,Comp(10),de dierenarts,Comp,10,152
+R_24zMzQY1U9LX5Gf,Comp(10),de dierenarts,Comp,10,152
+R_2zAp7MZjWbJtouD,Comp(10),de dierenarts,Comp,10,152
+R_1lgea30X5yRbWgb,Comp(10),Dierenarts,Comp,10,152
+R_1dg0dAPlymYfFcu,Comp(10),de dierenarts,Comp,10,152
+R_23TSscPxb3G1aSA,Comp(10),dierenarts,Comp,10,152
+R_3effdDALVVpFhkK,Comp(10),de dierenarts ,Comp,10,152
+R_2PpvbvcItA8LcqM,Comp(10),de dierenarts,Comp,10,152
+R_25WvorTEPc7DuHX,Comp(10),de dierenarts,Comp,10,152
+R_ZJCIt5D6m80Wim5,Comp(10),De dierenarts,Comp,10,152
+R_6gQpeEEoAOw1CNz,Comp(10),de dierenarts,Comp,10,152
+R_UcJP3naTdDXJEDn,Comp(10),De dierenarts ,Comp,10,152
+R_21pKbw8vqrjpJ4Q,Comp(10),de dierenarts,Comp,10,152
+R_1HiWKvIl546M44z,Comp(10),de dierenarts,Comp,10,152
+R_BFIiDPrnKiKOhkB,Comp(10),de dierenarts,Comp,10,152
+R_232AZeZQOdbRSAK,Comp(10),de dierenarts,Comp,10,152
+R_1odMwWpdALe3A7c,Comp(10),de dierenarts,Comp,10,152
+R_3CMZ1prTdwstnIi,Comp(10),de dierenarts ,Comp,10,152
+R_2SDkvNUYWKzQ9b4,Comp(10),de dierenarts,Comp,10,152
+R_2qwqWlqovi1EnxK,Comp(10),de dierendokter,Comp,10,152
+R_1nSW9rReHHlwpSQ,Comp(10),De dierenarts,Comp,10,152
+R_3FPt6NNv7fs4bHV,Comp(10),de dierenarts,Comp,10,152
+R_2uOs8d5Okoyss7z,Comp(10),de dierenarts,Comp,10,152
+R_1JEdl2aEMuUO63f,Comp(10),de dierenarts,Comp,10,152
+R_6L3ln2BoQAzJw2d,Comp(10),de dierenarts,Comp,10,152
+R_xAA7goWcKMvmb1D,Comp(10),de dierenarts,Comp,10,152
+R_248iCMeSwyLS8sF,Comp(10),het asiel,Comp,10,152
+R_OING4tGkg3q8VLb,Comp(10),de dierenklinik,Comp,10,152
+R_3kvbwPackXPANmo,Comp(10),de dierenarts,Comp,10,152
+R_3lRiG6M8Z6vKWZh,Comp(10),de dierenarts,Comp,10,152
+R_3q9cZ9NJjEx872v,Comp(10),de dierenarts,Comp,10,152
+R_ABt8n7PxUqkXqy5,Comp(10),De dierenarts,Comp,10,152
+R_3k6rPDoCD4kup7x,Comp(10),de dierenarts,Comp,10,152
+R_p6iBXJstulO97Jn,Comp(10),De dierenarts,Comp,10,152
+R_USFewLQTXHp0kPT,Comp(10),de dierenarts,Comp,10,152
+R_1AeLfMZXZ76HTHz,Comp(11),sd,Comp,11,153
+R_vrAH2qrxu41QSv7,Comp(11),de gevangenis,Comp,11,153
+R_6Pg4ql6MQumxZo9,Comp(11),een gevangenis,Comp,11,153
+R_1QaBlAsk46HI9NJ,Comp(11),de gevangenis,Comp,11,153
+R_pKtuHvEeh5mujgl,Comp(11),de gevangenis,Comp,11,153
+R_RrYmeJDnKB3hv7r,Comp(11),de gevangenis,Comp,11,153
+R_2alPe2ZkILnzWYp,Comp(11),de gevangenis,Comp,11,153
+R_24zMzQY1U9LX5Gf,Comp(11),de gevangenis,Comp,11,153
+R_2zAp7MZjWbJtouD,Comp(11),de gevangenis,Comp,11,153
+R_1lgea30X5yRbWgb,Comp(11),Gevangenis,Comp,11,153
+R_1dg0dAPlymYfFcu,Comp(11),de gevangenis,Comp,11,153
+R_23TSscPxb3G1aSA,Comp(11),gevangenis,Comp,11,153
+R_3effdDALVVpFhkK,Comp(11),de gevangenis ,Comp,11,153
+R_2PpvbvcItA8LcqM,Comp(11),de gevangenis,Comp,11,153
+R_25WvorTEPc7DuHX,Comp(11),de gevangenis,Comp,11,153
+R_ZJCIt5D6m80Wim5,Comp(11),De gevangenis,Comp,11,153
+R_6gQpeEEoAOw1CNz,Comp(11),de gevangenis,Comp,11,153
+R_UcJP3naTdDXJEDn,Comp(11),De gevangenis ,Comp,11,153
+R_21pKbw8vqrjpJ4Q,Comp(11),de gevangenis,Comp,11,153
+R_1HiWKvIl546M44z,Comp(11),de gevangenis,Comp,11,153
+R_BFIiDPrnKiKOhkB,Comp(11),de gevangenis,Comp,11,153
+R_232AZeZQOdbRSAK,Comp(11),de gevangenis,Comp,11,153
+R_1odMwWpdALe3A7c,Comp(11),de gevangenis,Comp,11,153
+R_3CMZ1prTdwstnIi,Comp(11),de gevangenis,Comp,11,153
+R_2SDkvNUYWKzQ9b4,Comp(11),de gevangenis,Comp,11,153
+R_2qwqWlqovi1EnxK,Comp(11),de gevangenis,Comp,11,153
+R_1nSW9rReHHlwpSQ,Comp(11),De gevangenis ,Comp,11,153
+R_3FPt6NNv7fs4bHV,Comp(11),de gevangenis,Comp,11,153
+R_2uOs8d5Okoyss7z,Comp(11),de gevangenis ,Comp,11,153
+R_1JEdl2aEMuUO63f,Comp(11),de gevangenis,Comp,11,153
+R_6L3ln2BoQAzJw2d,Comp(11),de gevangenis,Comp,11,153
+R_xAA7goWcKMvmb1D,Comp(11),de gevangenis,Comp,11,153
+R_248iCMeSwyLS8sF,Comp(11),de gevangenis,Comp,11,153
+R_OING4tGkg3q8VLb,Comp(11),de gevangenis,Comp,11,153
+R_3kvbwPackXPANmo,Comp(11),de gevangenis,Comp,11,153
+R_3lRiG6M8Z6vKWZh,Comp(11),de gevangenis,Comp,11,153
+R_3q9cZ9NJjEx872v,Comp(11),de gevangenis,Comp,11,153
+R_ABt8n7PxUqkXqy5,Comp(11),De gevangenis ,Comp,11,153
+R_3k6rPDoCD4kup7x,Comp(11),de gevangenis,Comp,11,153
+R_p6iBXJstulO97Jn,Comp(11),de gevangenis,Comp,11,153
+R_USFewLQTXHp0kPT,Comp(11),de gevangenis,Comp,11,153
+R_1AeLfMZXZ76HTHz,Comp(12),sd,Comp,12,154
+R_vrAH2qrxu41QSv7,Comp(12),de economie,Comp,12,154
+R_6Pg4ql6MQumxZo9,Comp(12),de economie,Comp,12,154
+R_1QaBlAsk46HI9NJ,Comp(12),de economie,Comp,12,154
+R_pKtuHvEeh5mujgl,Comp(12),de economie,Comp,12,154
+R_RrYmeJDnKB3hv7r,Comp(12),de economie ,Comp,12,154
+R_2alPe2ZkILnzWYp,Comp(12),de economie,Comp,12,154
+R_24zMzQY1U9LX5Gf,Comp(12),de ecnonomie,Comp,12,154
+R_2zAp7MZjWbJtouD,Comp(12),de economie ,Comp,12,154
+R_1lgea30X5yRbWgb,Comp(12),Economie ,Comp,12,154
+R_1dg0dAPlymYfFcu,Comp(12),de economie,Comp,12,154
+R_23TSscPxb3G1aSA,Comp(12),economie,Comp,12,154
+R_3effdDALVVpFhkK,Comp(12),de economie ,Comp,12,154
+R_2PpvbvcItA8LcqM,Comp(12),de econimie,Comp,12,154
+R_25WvorTEPc7DuHX,Comp(12),de economie,Comp,12,154
+R_ZJCIt5D6m80Wim5,Comp(12),De economie,Comp,12,154
+R_6gQpeEEoAOw1CNz,Comp(12),het welzijn,Comp,12,154
+R_UcJP3naTdDXJEDn,Comp(12),De economie ,Comp,12,154
+R_21pKbw8vqrjpJ4Q,Comp(12),de economie,Comp,12,154
+R_1HiWKvIl546M44z,Comp(12),de economie,Comp,12,154
+R_BFIiDPrnKiKOhkB,Comp(12),de economie,Comp,12,154
+R_232AZeZQOdbRSAK,Comp(12),de economie,Comp,12,154
+R_1odMwWpdALe3A7c,Comp(12),de economie,Comp,12,154
+R_3CMZ1prTdwstnIi,Comp(12),de economie ,Comp,12,154
+R_2SDkvNUYWKzQ9b4,Comp(12),de economie,Comp,12,154
+R_2qwqWlqovi1EnxK,Comp(12),de economie,Comp,12,154
+R_1nSW9rReHHlwpSQ,Comp(12),De economie ,Comp,12,154
+R_3FPt6NNv7fs4bHV,Comp(12),de economie,Comp,12,154
+R_2uOs8d5Okoyss7z,Comp(12),de economie ,Comp,12,154
+R_1JEdl2aEMuUO63f,Comp(12),de economie,Comp,12,154
+R_6L3ln2BoQAzJw2d,Comp(12),de economie,Comp,12,154
+R_xAA7goWcKMvmb1D,Comp(12),de economie,Comp,12,154
+R_248iCMeSwyLS8sF,Comp(12),de economie,Comp,12,154
+R_OING4tGkg3q8VLb,Comp(12),de econimie,Comp,12,154
+R_3kvbwPackXPANmo,Comp(12),de economie,Comp,12,154
+R_3lRiG6M8Z6vKWZh,Comp(12),de economie,Comp,12,154
+R_3q9cZ9NJjEx872v,Comp(12),de economie,Comp,12,154
+R_ABt8n7PxUqkXqy5,Comp(12),De economie,Comp,12,154
+R_3k6rPDoCD4kup7x,Comp(12),de economie,Comp,12,154
+R_p6iBXJstulO97Jn,Comp(12),de economie,Comp,12,154
+R_USFewLQTXHp0kPT,Comp(12),de economie,Comp,12,154
+R_1AeLfMZXZ76HTHz,Comp(13),sd,Comp,13,155
+R_vrAH2qrxu41QSv7,Comp(13),De schoorsteen,Comp,13,155
+R_6Pg4ql6MQumxZo9,Comp(13),de schoorsteen,Comp,13,155
+R_1QaBlAsk46HI9NJ,Comp(13),de schoorsteen,Comp,13,155
+R_pKtuHvEeh5mujgl,Comp(13),de schoorsteen,Comp,13,155
+R_RrYmeJDnKB3hv7r,Comp(13),de schoorsteen,Comp,13,155
+R_2alPe2ZkILnzWYp,Comp(13),de schoorsteen,Comp,13,155
+R_24zMzQY1U9LX5Gf,Comp(13),de schoorsteen,Comp,13,155
+R_2zAp7MZjWbJtouD,Comp(13),de schoorsteen,Comp,13,155
+R_1lgea30X5yRbWgb,Comp(13),Schoorsteen,Comp,13,155
+R_1dg0dAPlymYfFcu,Comp(13),de schoorsteen,Comp,13,155
+R_23TSscPxb3G1aSA,Comp(13),schoorsteen,Comp,13,155
+R_3effdDALVVpFhkK,Comp(13),de achtertuin ,Comp,13,155
+R_2PpvbvcItA8LcqM,Comp(13),de schoorsteen,Comp,13,155
+R_25WvorTEPc7DuHX,Comp(13),de schoorsteen,Comp,13,155
+R_ZJCIt5D6m80Wim5,Comp(13),De schoorsteen,Comp,13,155
+R_6gQpeEEoAOw1CNz,Comp(13),de schoorsteen,Comp,13,155
+R_UcJP3naTdDXJEDn,Comp(13),De schoorsteen ,Comp,13,155
+R_21pKbw8vqrjpJ4Q,Comp(13),de schoorsteen,Comp,13,155
+R_1HiWKvIl546M44z,Comp(13),de schoorsteen,Comp,13,155
+R_BFIiDPrnKiKOhkB,Comp(13),de schoorsteen,Comp,13,155
+R_232AZeZQOdbRSAK,Comp(13),de schoorsteen,Comp,13,155
+R_1odMwWpdALe3A7c,Comp(13),de schoorsteen,Comp,13,155
+R_3CMZ1prTdwstnIi,Comp(13),de schoorsteen,Comp,13,155
+R_2SDkvNUYWKzQ9b4,Comp(13),de schoorsteen,Comp,13,155
+R_2qwqWlqovi1EnxK,Comp(13),de schoorsteen,Comp,13,155
+R_1nSW9rReHHlwpSQ,Comp(13),De schoorsteen ,Comp,13,155
+R_3FPt6NNv7fs4bHV,Comp(13),de schoorsteen,Comp,13,155
+R_2uOs8d5Okoyss7z,Comp(13),de schoorsteen,Comp,13,155
+R_1JEdl2aEMuUO63f,Comp(13),de schoorsteen,Comp,13,155
+R_6L3ln2BoQAzJw2d,Comp(13),de schoorsteen,Comp,13,155
+R_xAA7goWcKMvmb1D,Comp(13),de schoorsteen,Comp,13,155
+R_248iCMeSwyLS8sF,Comp(13),de schoorsteen,Comp,13,155
+R_OING4tGkg3q8VLb,Comp(13),de schoorsteen,Comp,13,155
+R_3kvbwPackXPANmo,Comp(13),de schoorsteen,Comp,13,155
+R_3lRiG6M8Z6vKWZh,Comp(13),de schoorsteen,Comp,13,155
+R_3q9cZ9NJjEx872v,Comp(13),de schoorsteen,Comp,13,155
+R_ABt8n7PxUqkXqy5,Comp(13),De schoorsteen ,Comp,13,155
+R_3k6rPDoCD4kup7x,Comp(13),de schoorsteen,Comp,13,155
+R_p6iBXJstulO97Jn,Comp(13),de schoorsteen,Comp,13,155
+R_USFewLQTXHp0kPT,Comp(13),de schoorsteen,Comp,13,155
+R_1AeLfMZXZ76HTHz,Comp(14),sd,Comp,14,156
+R_vrAH2qrxu41QSv7,Comp(14),het geld,Comp,14,156
+R_6Pg4ql6MQumxZo9,Comp(14),het geld,Comp,14,156
+R_1QaBlAsk46HI9NJ,Comp(14),het geld,Comp,14,156
+R_pKtuHvEeh5mujgl,Comp(14),het geld,Comp,14,156
+R_RrYmeJDnKB3hv7r,Comp(14),het geld,Comp,14,156
+R_2alPe2ZkILnzWYp,Comp(14),het geld,Comp,14,156
+R_24zMzQY1U9LX5Gf,Comp(14),het geld,Comp,14,156
+R_2zAp7MZjWbJtouD,Comp(14),het geld ,Comp,14,156
+R_1lgea30X5yRbWgb,Comp(14),Geld,Comp,14,156
+R_1dg0dAPlymYfFcu,Comp(14),het geld,Comp,14,156
+R_23TSscPxb3G1aSA,Comp(14),geld,Comp,14,156
+R_3effdDALVVpFhkK,Comp(14),de kas,Comp,14,156
+R_2PpvbvcItA8LcqM,Comp(14),de geldla,Comp,14,156
+R_25WvorTEPc7DuHX,Comp(14),het geld,Comp,14,156
+R_ZJCIt5D6m80Wim5,Comp(14),De inhoud,Comp,14,156
+R_6gQpeEEoAOw1CNz,Comp(14),het geld ,Comp,14,156
+R_UcJP3naTdDXJEDn,Comp(14),De inhoud ,Comp,14,156
+R_21pKbw8vqrjpJ4Q,Comp(14),de geldlade,Comp,14,156
+R_1HiWKvIl546M44z,Comp(14),het geld,Comp,14,156
+R_BFIiDPrnKiKOhkB,Comp(14),het geld,Comp,14,156
+R_232AZeZQOdbRSAK,Comp(14),het geld,Comp,14,156
+R_1odMwWpdALe3A7c,Comp(14),het geld,Comp,14,156
+R_3CMZ1prTdwstnIi,Comp(14),het geld ,Comp,14,156
+R_2SDkvNUYWKzQ9b4,Comp(14),het geld,Comp,14,156
+R_2qwqWlqovi1EnxK,Comp(14),het geld,Comp,14,156
+R_1nSW9rReHHlwpSQ,Comp(14),Het geld,Comp,14,156
+R_3FPt6NNv7fs4bHV,Comp(14),het geld,Comp,14,156
+R_2uOs8d5Okoyss7z,Comp(14),het geld,Comp,14,156
+R_1JEdl2aEMuUO63f,Comp(14),de inhoud,Comp,14,156
+R_6L3ln2BoQAzJw2d,Comp(14),het geld,Comp,14,156
+R_xAA7goWcKMvmb1D,Comp(14),geld,Comp,14,156
+R_248iCMeSwyLS8sF,Comp(14),de knuffelbeer,Comp,14,156
+R_OING4tGkg3q8VLb,Comp(14),het geld,Comp,14,156
+R_3kvbwPackXPANmo,Comp(14),het geld,Comp,14,156
+R_3lRiG6M8Z6vKWZh,Comp(14),het geld,Comp,14,156
+R_3q9cZ9NJjEx872v,Comp(14),het geld,Comp,14,156
+R_ABt8n7PxUqkXqy5,Comp(14),Het geld,Comp,14,156
+R_3k6rPDoCD4kup7x,Comp(14),het geld,Comp,14,156
+R_p6iBXJstulO97Jn,Comp(14),het geld,Comp,14,156
+R_USFewLQTXHp0kPT,Comp(14),het geld,Comp,14,156
+R_1AeLfMZXZ76HTHz,Comp(15),sd,Comp,15,157
+R_vrAH2qrxu41QSv7,Comp(15),de film,Comp,15,157
+R_6Pg4ql6MQumxZo9,Comp(15),de film,Comp,15,157
+R_1QaBlAsk46HI9NJ,Comp(15),de bioscoop,Comp,15,157
+R_pKtuHvEeh5mujgl,Comp(15),de film,Comp,15,157
+R_RrYmeJDnKB3hv7r,Comp(15),de film,Comp,15,157
+R_2alPe2ZkILnzWYp,Comp(15),een film,Comp,15,157
+R_24zMzQY1U9LX5Gf,Comp(15),de film,Comp,15,157
+R_2zAp7MZjWbJtouD,Comp(15),de film,Comp,15,157
+R_1lgea30X5yRbWgb,Comp(15),Film,Comp,15,157
+R_1dg0dAPlymYfFcu,Comp(15),de film,Comp,15,157
+R_23TSscPxb3G1aSA,Comp(15),film,Comp,15,157
+R_3effdDALVVpFhkK,Comp(15),de cinema,Comp,15,157
+R_2PpvbvcItA8LcqM,Comp(15),de bios,Comp,15,157
+R_25WvorTEPc7DuHX,Comp(15),de film,Comp,15,157
+R_ZJCIt5D6m80Wim5,Comp(15),De film,Comp,15,157
+R_6gQpeEEoAOw1CNz,Comp(15),de film,Comp,15,157
+R_UcJP3naTdDXJEDn,Comp(15),De film,Comp,15,157
+R_21pKbw8vqrjpJ4Q,Comp(15),de film,Comp,15,157
+R_1HiWKvIl546M44z,Comp(15),de film,Comp,15,157
+R_BFIiDPrnKiKOhkB,Comp(15),de film,Comp,15,157
+R_232AZeZQOdbRSAK,Comp(15),de film,Comp,15,157
+R_1odMwWpdALe3A7c,Comp(15),de film,Comp,15,157
+R_3CMZ1prTdwstnIi,Comp(15),de film,Comp,15,157
+R_2SDkvNUYWKzQ9b4,Comp(15),de film,Comp,15,157
+R_2qwqWlqovi1EnxK,Comp(15),de bioscoop,Comp,15,157
+R_1nSW9rReHHlwpSQ,Comp(15),De film,Comp,15,157
+R_3FPt6NNv7fs4bHV,Comp(15),de fil,Comp,15,157
+R_2uOs8d5Okoyss7z,Comp(15),de bioscoop,Comp,15,157
+R_1JEdl2aEMuUO63f,Comp(15),de film,Comp,15,157
+R_6L3ln2BoQAzJw2d,Comp(15),de film,Comp,15,157
+R_xAA7goWcKMvmb1D,Comp(15),de film,Comp,15,157
+R_248iCMeSwyLS8sF,Comp(15),de film,Comp,15,157
+R_OING4tGkg3q8VLb,Comp(15),een film,Comp,15,157
+R_3kvbwPackXPANmo,Comp(15),de film,Comp,15,157
+R_3lRiG6M8Z6vKWZh,Comp(15),de film,Comp,15,157
+R_3q9cZ9NJjEx872v,Comp(15),de film,Comp,15,157
+R_ABt8n7PxUqkXqy5,Comp(15),De film ,Comp,15,157
+R_3k6rPDoCD4kup7x,Comp(15),de film,Comp,15,157
+R_p6iBXJstulO97Jn,Comp(15),de film,Comp,15,157
+R_USFewLQTXHp0kPT,Comp(15),de film,Comp,15,157
+R_1AeLfMZXZ76HTHz,Comp(16),sd,Comp,16,158
+R_vrAH2qrxu41QSv7,Comp(16),de radio,Comp,16,158
+R_6Pg4ql6MQumxZo9,Comp(16),de radio,Comp,16,158
+R_1QaBlAsk46HI9NJ,Comp(16),de radio,Comp,16,158
+R_pKtuHvEeh5mujgl,Comp(16),de radio,Comp,16,158
+R_RrYmeJDnKB3hv7r,Comp(16),de radio,Comp,16,158
+R_2alPe2ZkILnzWYp,Comp(16),de radio,Comp,16,158
+R_24zMzQY1U9LX5Gf,Comp(16),de radio,Comp,16,158
+R_2zAp7MZjWbJtouD,Comp(16),de radio,Comp,16,158
+R_1lgea30X5yRbWgb,Comp(16),Radio,Comp,16,158
+R_1dg0dAPlymYfFcu,Comp(16),de radio,Comp,16,158
+R_23TSscPxb3G1aSA,Comp(16),radio,Comp,16,158
+R_3effdDALVVpFhkK,Comp(16),de radio,Comp,16,158
+R_2PpvbvcItA8LcqM,Comp(16),de radio,Comp,16,158
+R_25WvorTEPc7DuHX,Comp(16),de radio,Comp,16,158
+R_ZJCIt5D6m80Wim5,Comp(16),De radio,Comp,16,158
+R_6gQpeEEoAOw1CNz,Comp(16),de radio,Comp,16,158
+R_UcJP3naTdDXJEDn,Comp(16),De radio,Comp,16,158
+R_21pKbw8vqrjpJ4Q,Comp(16),de radio,Comp,16,158
+R_1HiWKvIl546M44z,Comp(16),de radio,Comp,16,158
+R_BFIiDPrnKiKOhkB,Comp(16),de radio,Comp,16,158
+R_232AZeZQOdbRSAK,Comp(16),de radio,Comp,16,158
+R_1odMwWpdALe3A7c,Comp(16),de radio,Comp,16,158
+R_3CMZ1prTdwstnIi,Comp(16),de radio ,Comp,16,158
+R_2SDkvNUYWKzQ9b4,Comp(16),de radio,Comp,16,158
+R_2qwqWlqovi1EnxK,Comp(16),de radio,Comp,16,158
+R_1nSW9rReHHlwpSQ,Comp(16),De radio,Comp,16,158
+R_3FPt6NNv7fs4bHV,Comp(16),de radio,Comp,16,158
+R_2uOs8d5Okoyss7z,Comp(16),de radio,Comp,16,158
+R_1JEdl2aEMuUO63f,Comp(16),de radio,Comp,16,158
+R_6L3ln2BoQAzJw2d,Comp(16),de radio,Comp,16,158
+R_xAA7goWcKMvmb1D,Comp(16),de radio,Comp,16,158
+R_248iCMeSwyLS8sF,Comp(16),de radio,Comp,16,158
+R_OING4tGkg3q8VLb,Comp(16),de radio,Comp,16,158
+R_3kvbwPackXPANmo,Comp(16),de radio,Comp,16,158
+R_3lRiG6M8Z6vKWZh,Comp(16),de radio,Comp,16,158
+R_3q9cZ9NJjEx872v,Comp(16),de radio,Comp,16,158
+R_ABt8n7PxUqkXqy5,Comp(16),De radio,Comp,16,158
+R_3k6rPDoCD4kup7x,Comp(16),de radio,Comp,16,158
+R_p6iBXJstulO97Jn,Comp(16),de radio,Comp,16,158
+R_USFewLQTXHp0kPT,Comp(16),de radio,Comp,16,158
+R_1AeLfMZXZ76HTHz,Comp(17),sd,Comp,17,159
+R_vrAH2qrxu41QSv7,Comp(17),de balkon,Comp,17,159
+R_6Pg4ql6MQumxZo9,Comp(17),het balkon,Comp,17,159
+R_1QaBlAsk46HI9NJ,Comp(17),de bank,Comp,17,159
+R_pKtuHvEeh5mujgl,Comp(17),het balkon,Comp,17,159
+R_RrYmeJDnKB3hv7r,Comp(17),het balkon,Comp,17,159
+R_2alPe2ZkILnzWYp,Comp(17),het balkon,Comp,17,159
+R_24zMzQY1U9LX5Gf,Comp(17),het balkon,Comp,17,159
+R_2zAp7MZjWbJtouD,Comp(17),het balkon,Comp,17,159
+R_1lgea30X5yRbWgb,Comp(17),Balkon,Comp,17,159
+R_1dg0dAPlymYfFcu,Comp(17),het balkon,Comp,17,159
+R_23TSscPxb3G1aSA,Comp(17),balkon,Comp,17,159
+R_3effdDALVVpFhkK,Comp(17),het terras,Comp,17,159
+R_2PpvbvcItA8LcqM,Comp(17),het balkon,Comp,17,159
+R_25WvorTEPc7DuHX,Comp(17),het balkon,Comp,17,159
+R_ZJCIt5D6m80Wim5,Comp(17),Het balkon,Comp,17,159
+R_6gQpeEEoAOw1CNz,Comp(17),het balkon,Comp,17,159
+R_UcJP3naTdDXJEDn,Comp(17),Het balkon,Comp,17,159
+R_21pKbw8vqrjpJ4Q,Comp(17),het balkon,Comp,17,159
+R_1HiWKvIl546M44z,Comp(17),het balkon,Comp,17,159
+R_BFIiDPrnKiKOhkB,Comp(17),het balkon,Comp,17,159
+R_232AZeZQOdbRSAK,Comp(17),het balkon,Comp,17,159
+R_1odMwWpdALe3A7c,Comp(17),het balkon,Comp,17,159
+R_3CMZ1prTdwstnIi,Comp(17),het balkon ,Comp,17,159
+R_2SDkvNUYWKzQ9b4,Comp(17),het balkon,Comp,17,159
+R_2qwqWlqovi1EnxK,Comp(17),het balkon,Comp,17,159
+R_1nSW9rReHHlwpSQ,Comp(17),Het balkon ,Comp,17,159
+R_3FPt6NNv7fs4bHV,Comp(17),mijn balkon,Comp,17,159
+R_2uOs8d5Okoyss7z,Comp(17),het balkon,Comp,17,159
+R_1JEdl2aEMuUO63f,Comp(17),het balkon,Comp,17,159
+R_6L3ln2BoQAzJw2d,Comp(17),het balkon,Comp,17,159
+R_xAA7goWcKMvmb1D,Comp(17),het dak,Comp,17,159
+R_248iCMeSwyLS8sF,Comp(17),het dak,Comp,17,159
+R_OING4tGkg3q8VLb,Comp(17),het balkon,Comp,17,159
+R_3kvbwPackXPANmo,Comp(17),het balkon,Comp,17,159
+R_3lRiG6M8Z6vKWZh,Comp(17),het balkon,Comp,17,159
+R_3q9cZ9NJjEx872v,Comp(17),het balkon,Comp,17,159
+R_ABt8n7PxUqkXqy5,Comp(17),Het balkon,Comp,17,159
+R_3k6rPDoCD4kup7x,Comp(17),het balkon,Comp,17,159
+R_p6iBXJstulO97Jn,Comp(17),het balkon,Comp,17,159
+R_USFewLQTXHp0kPT,Comp(17),het balkon,Comp,17,159
+R_1AeLfMZXZ76HTHz,Comp(18),sd,Comp,18,160
+R_vrAH2qrxu41QSv7,Comp(18),het land,Comp,18,160
+R_6Pg4ql6MQumxZo9,Comp(18),het land,Comp,18,160
+R_1QaBlAsk46HI9NJ,Comp(18),het land,Comp,18,160
+R_pKtuHvEeh5mujgl,Comp(18),het land,Comp,18,160
+R_RrYmeJDnKB3hv7r,Comp(18),het land,Comp,18,160
+R_2alPe2ZkILnzWYp,Comp(18),het land,Comp,18,160
+R_24zMzQY1U9LX5Gf,Comp(18),het land,Comp,18,160
+R_2zAp7MZjWbJtouD,Comp(18),het land,Comp,18,160
+R_1lgea30X5yRbWgb,Comp(18),Land,Comp,18,160
+R_1dg0dAPlymYfFcu,Comp(18),het land,Comp,18,160
+R_23TSscPxb3G1aSA,Comp(18),nederland,Comp,18,160
+R_3effdDALVVpFhkK,Comp(18),het land,Comp,18,160
+R_2PpvbvcItA8LcqM,Comp(18),het land,Comp,18,160
+R_25WvorTEPc7DuHX,Comp(18),het land,Comp,18,160
+R_ZJCIt5D6m80Wim5,Comp(18),Het land,Comp,18,160
+R_6gQpeEEoAOw1CNz,Comp(18),de volgende ,Comp,18,160
+R_UcJP3naTdDXJEDn,Comp(18),Het land,Comp,18,160
+R_21pKbw8vqrjpJ4Q,Comp(18),het land,Comp,18,160
+R_1HiWKvIl546M44z,Comp(18),de dag,Comp,18,160
+R_BFIiDPrnKiKOhkB,Comp(18),het land,Comp,18,160
+R_232AZeZQOdbRSAK,Comp(18),het land,Comp,18,160
+R_1odMwWpdALe3A7c,Comp(18),het land,Comp,18,160
+R_3CMZ1prTdwstnIi,Comp(18),het land ,Comp,18,160
+R_2SDkvNUYWKzQ9b4,Comp(18),het land,Comp,18,160
+R_2qwqWlqovi1EnxK,Comp(18),het land,Comp,18,160
+R_1nSW9rReHHlwpSQ,Comp(18),Het land,Comp,18,160
+R_3FPt6NNv7fs4bHV,Comp(18),het land,Comp,18,160
+R_2uOs8d5Okoyss7z,Comp(18),het land,Comp,18,160
+R_1JEdl2aEMuUO63f,Comp(18),het land,Comp,18,160
+R_6L3ln2BoQAzJw2d,Comp(18),de volgende,Comp,18,160
+R_xAA7goWcKMvmb1D,Comp(18),de Benelux,Comp,18,160
+R_248iCMeSwyLS8sF,Comp(18),het land,Comp,18,160
+R_OING4tGkg3q8VLb,Comp(18),het land,Comp,18,160
+R_3kvbwPackXPANmo,Comp(18),het land,Comp,18,160
+R_3lRiG6M8Z6vKWZh,Comp(18),het land,Comp,18,160
+R_3q9cZ9NJjEx872v,Comp(18),het land,Comp,18,160
+R_ABt8n7PxUqkXqy5,Comp(18),Het land,Comp,18,160
+R_3k6rPDoCD4kup7x,Comp(18),het land,Comp,18,160
+R_p6iBXJstulO97Jn,Comp(18),Het land,Comp,18,160
+R_USFewLQTXHp0kPT,Comp(18),ons land,Comp,18,160
+R_1AeLfMZXZ76HTHz,Comp(19),sd,Comp,19,161
+R_vrAH2qrxu41QSv7,Comp(19),de krant,Comp,19,161
+R_6Pg4ql6MQumxZo9,Comp(19),de krant,Comp,19,161
+R_1QaBlAsk46HI9NJ,Comp(19),de krant,Comp,19,161
+R_pKtuHvEeh5mujgl,Comp(19),de krant,Comp,19,161
+R_RrYmeJDnKB3hv7r,Comp(19),de krant,Comp,19,161
+R_2alPe2ZkILnzWYp,Comp(19),de krant,Comp,19,161
+R_24zMzQY1U9LX5Gf,Comp(19),de krant,Comp,19,161
+R_2zAp7MZjWbJtouD,Comp(19),de krant ,Comp,19,161
+R_1lgea30X5yRbWgb,Comp(19),Bijbel,Comp,19,161
+R_1dg0dAPlymYfFcu,Comp(19),de krant,Comp,19,161
+R_23TSscPxb3G1aSA,Comp(19),krant,Comp,19,161
+R_3effdDALVVpFhkK,Comp(19),de krant,Comp,19,161
+R_2PpvbvcItA8LcqM,Comp(19),de krant,Comp,19,161
+R_25WvorTEPc7DuHX,Comp(19),de krant,Comp,19,161
+R_ZJCIt5D6m80Wim5,Comp(19),Een krant,Comp,19,161
+R_6gQpeEEoAOw1CNz,Comp(19),de krant ,Comp,19,161
+R_UcJP3naTdDXJEDn,Comp(19),De krant,Comp,19,161
+R_21pKbw8vqrjpJ4Q,Comp(19),de krant,Comp,19,161
+R_1HiWKvIl546M44z,Comp(19),de krant,Comp,19,161
+R_BFIiDPrnKiKOhkB,Comp(19),de krant,Comp,19,161
+R_232AZeZQOdbRSAK,Comp(19),de krant,Comp,19,161
+R_1odMwWpdALe3A7c,Comp(19),de krant,Comp,19,161
+R_3CMZ1prTdwstnIi,Comp(19),de krant ,Comp,19,161
+R_2SDkvNUYWKzQ9b4,Comp(19),de krant,Comp,19,161
+R_2qwqWlqovi1EnxK,Comp(19),de krant,Comp,19,161
+R_1nSW9rReHHlwpSQ,Comp(19),De krant ,Comp,19,161
+R_3FPt6NNv7fs4bHV,Comp(19),de krant,Comp,19,161
+R_2uOs8d5Okoyss7z,Comp(19),de krant,Comp,19,161
+R_1JEdl2aEMuUO63f,Comp(19),de krant,Comp,19,161
+R_6L3ln2BoQAzJw2d,Comp(19),de krant,Comp,19,161
+R_xAA7goWcKMvmb1D,Comp(19),de krant,Comp,19,161
+R_248iCMeSwyLS8sF,Comp(19),de playboy,Comp,19,161
+R_OING4tGkg3q8VLb,Comp(19),een krant,Comp,19,161
+R_3kvbwPackXPANmo,Comp(19),de krant,Comp,19,161
+R_3lRiG6M8Z6vKWZh,Comp(19),de krant,Comp,19,161
+R_3q9cZ9NJjEx872v,Comp(19),de krant,Comp,19,161
+R_ABt8n7PxUqkXqy5,Comp(19),De krant ,Comp,19,161
+R_3k6rPDoCD4kup7x,Comp(19),de krant,Comp,19,161
+R_p6iBXJstulO97Jn,Comp(19),De krant,Comp,19,161
+R_USFewLQTXHp0kPT,Comp(19),de krant,Comp,19,161

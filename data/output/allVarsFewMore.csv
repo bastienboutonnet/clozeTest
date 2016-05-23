@@ -1,0 +1,761 @@
+subj_id,Completion,sentID,compNoTrail,compLower,determiner,noun,isDet,isWord,NatNess,Diff,RT
+R_vrAH2qrxu41QSv7,de trein,143,de trein,de trein,de,trein,True,True,5.0,6,11.771
+R_6Pg4ql6MQumxZo9,de trein,143,de trein,de trein,de,trein,True,True,5.0,6,2.613
+R_1QaBlAsk46HI9NJ,de fiets,143,de fiets,de fiets,de,fiets,True,True,5.0,6,6.412
+R_pKtuHvEeh5mujgl,de auto,143,de auto,de auto,de,auto,True,True,5.0,6,5.574
+R_RrYmeJDnKB3hv7r,de trein,143,de trein,de trein,de,trein,True,True,3.0,6,10.961
+R_2alPe2ZkILnzWYp,de trein,143,de trein,de trein,de,trein,True,True,4.0,6,39.432
+R_24zMzQY1U9LX5Gf,de trein,143,de trein,de trein,de,trein,True,True,3.0,6,6.684
+R_2zAp7MZjWbJtouD,de trein,143,de trein,de trein,de,trein,True,True,1.0,6,12.664
+R_1lgea30X5yRbWgb,Auto,143,Auto,auto,,-99,False,False,2.0,6,10.986
+R_1dg0dAPlymYfFcu,de trein,143,de trein,de trein,de,trein,True,True,5.0,6,1.819
+R_23TSscPxb3G1aSA,trein,143,trein,trein,,-99,False,False,5.0,6,4.927
+R_3effdDALVVpFhkK,de trein,143,de trein,de trein,de,trein,True,True,5.0,6,15.139
+R_2PpvbvcItA8LcqM,de trein,143,de trein,de trein,de,trein,True,True,5.0,6,6.715
+R_25WvorTEPc7DuHX,de trein,143,de trein,de trein,de,trein,True,True,5.0,6,11.137
+R_ZJCIt5D6m80Wim5,De trein,143,De trein,de trein,De,trein,True,True,1.0,6,8.289
+R_6gQpeEEoAOw1CNz,de auto,143,de auto,de auto,de,auto,True,True,4.0,6,3.764
+R_UcJP3naTdDXJEDn,De trein,143,De trein,de trein,De,trein,True,True,,5,30.72
+R_21pKbw8vqrjpJ4Q,de trein,143,de trein,de trein,de,trein,True,True,5.0,6,8.656
+R_1HiWKvIl546M44z,de trein,143,de trein,de trein,de,trein,True,True,4.0,6,4.758
+R_BFIiDPrnKiKOhkB,de trein,143,de trein,de trein,de,trein,True,True,5.0,6,3.597
+R_232AZeZQOdbRSAK,de trein,143,de trein,de trein,de,trein,True,True,5.0,5,8.406
+R_1odMwWpdALe3A7c,de trein,143,de trein,de trein,de,trein,True,True,3.0,5,4.378
+R_3CMZ1prTdwstnIi,de trein ,143,de trein,de trein,de,trein,True,True,5.0,6,2.643
+R_2SDkvNUYWKzQ9b4,de trein,143,de trein,de trein,de,trein,True,True,5.0,5,3.096
+R_2qwqWlqovi1EnxK,de trein,143,de trein,de trein,de,trein,True,True,4.0,6,7.464
+R_1nSW9rReHHlwpSQ,De trein,143,De trein,de trein,De,trein,True,True,5.0,6,4.75
+R_3FPt6NNv7fs4bHV,de trein,143,de trein,de trein,de,trein,True,True,3.0,6,5.221
+R_2uOs8d5Okoyss7z,de trein,143,de trein,de trein,de,trein,True,True,4.0,3,7.177
+R_1JEdl2aEMuUO63f,de auto,143,de auto,de auto,de,auto,True,True,5.0,6,4.702
+R_6L3ln2BoQAzJw2d,de trein,143,de trein,de trein,de,trein,True,True,5.0,6,3.149
+R_xAA7goWcKMvmb1D,de trein,143,de trein,de trein,de,trein,True,True,4.0,6,118.505
+R_248iCMeSwyLS8sF,de trein,143,de trein,de trein,de,trein,True,True,4.0,4,11.768
+R_OING4tGkg3q8VLb,de veerboot,143,de veerboot,de veerboot,de,veerboot,True,True,3.0,4,18.056
+R_3kvbwPackXPANmo,de trein,143,de trein,de trein,de,trein,True,True,4.0,6,2.289
+R_3lRiG6M8Z6vKWZh,de trein,143,de trein,de trein,de,trein,True,True,5.0,6,7.256
+R_3q9cZ9NJjEx872v,de trein,143,de trein,de trein,de,trein,True,True,2.0,6,6.028
+R_ABt8n7PxUqkXqy5,De bus,143,De bus,de bus,De,bus,True,True,3.0,4,5.965
+R_3k6rPDoCD4kup7x,de trein,143,de trein,de trein,de,trein,True,True,5.0,6,5.975
+R_p6iBXJstulO97Jn,De trein,143,De trein,de trein,De,trein,True,True,5.0,6,7.414
+R_USFewLQTXHp0kPT,de trein,143,de trein,de trein,de,trein,True,True,4.0,6,0.792
+R_vrAH2qrxu41QSv7,het strand,144,het strand,het strand,het,strand,True,True,5.0,6,6.789
+R_6Pg4ql6MQumxZo9,het strand,144,het strand,het strand,het,strand,True,True,5.0,6,2.176
+R_1QaBlAsk46HI9NJ,het strand,144,het strand,het strand,het,strand,True,True,5.0,6,5.882
+R_pKtuHvEeh5mujgl,het strand,144,het strand,het strand,het,strand,True,True,5.0,6,9.208
+R_RrYmeJDnKB3hv7r,het strand,144,het strand,het strand,het,strand,True,True,5.0,6,4.784
+R_2alPe2ZkILnzWYp,het strand,144,het strand,het strand,het,strand,True,True,5.0,6,5.769
+R_24zMzQY1U9LX5Gf,het strand,144,het strand,het strand,het,strand,True,True,4.0,5,21.334
+R_2zAp7MZjWbJtouD,het strand,144,het strand,het strand,het,strand,True,True,5.0,6,7.877
+R_1lgea30X5yRbWgb,Strand,144,Strand,strand,,-99,False,False,1.0,6,12.016
+R_1dg0dAPlymYfFcu,het strand,144,het strand,het strand,het,strand,True,True,5.0,6,2.696
+R_23TSscPxb3G1aSA,strand,144,strand,strand,,-99,False,False,5.0,6,6.185
+R_3effdDALVVpFhkK,het strand ,144,het strand,het strand,het,strand,True,True,5.0,6,19.311
+R_2PpvbvcItA8LcqM,het strand,144,het strand,het strand,het,strand,True,True,5.0,6,7.954
+R_25WvorTEPc7DuHX,het strand,144,het strand,het strand,het,strand,True,True,5.0,6,11.635
+R_ZJCIt5D6m80Wim5,Het strand,144,Het strand,het strand,Het,strand,True,True,1.0,6,6.955
+R_6gQpeEEoAOw1CNz,het strand,144,het strand,het strand,het,strand,True,True,5.0,6,2.981
+R_UcJP3naTdDXJEDn,Het strand,144,Het strand,het strand,Het,strand,True,True,5.0,6,22.826
+R_21pKbw8vqrjpJ4Q,het strand,144,het strand,het strand,het,strand,True,True,5.0,6,10.312
+R_1HiWKvIl546M44z,het strand,144,het strand,het strand,het,strand,True,True,3.0,6,5.614
+R_BFIiDPrnKiKOhkB,het strand,144,het strand,het strand,het,strand,True,True,4.0,6,5.04
+R_232AZeZQOdbRSAK,het strand,144,het strand,het strand,het,strand,True,True,4.0,6,15.454
+R_1odMwWpdALe3A7c,het strand,144,het strand,het strand,het,strand,True,True,5.0,6,3.721
+R_3CMZ1prTdwstnIi,het strand ,144,het strand,het strand,het,strand,True,True,5.0,6,2.432
+R_2SDkvNUYWKzQ9b4,het strand,144,het strand,het strand,het,strand,True,True,4.0,6,3.891
+R_2qwqWlqovi1EnxK,het strand,144,het strand,het strand,het,strand,True,True,5.0,6,5.09
+R_1nSW9rReHHlwpSQ,Het strand ,144,Het strand,het strand,Het,strand,True,True,5.0,6,9.491
+R_3FPt6NNv7fs4bHV,het strand,144,het strand,het strand,het,strand,True,True,4.0,5,12.77
+R_2uOs8d5Okoyss7z,het strand,144,het strand,het strand,het,strand,True,True,2.0,5,6.293
+R_1JEdl2aEMuUO63f,het strand,144,het strand,het strand,het,strand,True,True,5.0,6,21.966
+R_6L3ln2BoQAzJw2d,het strand,144,het strand,het strand,het,strand,True,True,5.0,6,2.98
+R_xAA7goWcKMvmb1D,het strand,144,het strand,het strand,het,strand,True,True,4.0,6,8.11
+R_248iCMeSwyLS8sF,het strand,144,het strand,het strand,het,strand,True,True,3.0,5,10.32
+R_OING4tGkg3q8VLb,het vliegveld,144,het vliegveld,het vliegveld,het,vliegveld,True,True,4.0,5,23.413
+R_3kvbwPackXPANmo,het strand,144,het strand,het strand,het,strand,True,True,5.0,6,3.361
+R_3lRiG6M8Z6vKWZh,het strand,144,het strand,het strand,het,strand,True,True,5.0,6,5.668
+R_3q9cZ9NJjEx872v,het strand,144,het strand,het strand,het,strand,True,True,3.0,6,3.168
+R_ABt8n7PxUqkXqy5,Het strand,144,Het strand,het strand,Het,strand,True,True,5.0,6,4.611
+R_3k6rPDoCD4kup7x,het strand,144,het strand,het strand,het,strand,True,True,5.0,6,5.331
+R_p6iBXJstulO97Jn,Het strand,144,Het strand,het strand,Het,strand,True,True,5.0,6,5.184
+R_USFewLQTXHp0kPT,het strand,144,het strand,het strand,het,strand,True,True,5.0,6,0.559
+R_vrAH2qrxu41QSv7,de lift,145,de lift,de lift,de,lift,True,True,5.0,6,15.445
+R_6Pg4ql6MQumxZo9,de lift,145,de lift,de lift,de,lift,True,True,4.0,5,4.217
+R_1QaBlAsk46HI9NJ,de lift,145,de lift,de lift,de,lift,True,True,1.0,6,48.727
+R_pKtuHvEeh5mujgl,de lift,145,de lift,de lift,de,lift,True,True,5.0,6,2.352
+R_RrYmeJDnKB3hv7r,de lift ,145,de lift,de lift,de,lift,True,True,5.0,6,3.018
+R_2alPe2ZkILnzWYp,de lift,145,de lift,de lift,de,lift,True,True,5.0,6,4.579
+R_24zMzQY1U9LX5Gf,de lift,145,de lift,de lift,de,lift,True,True,5.0,6,1.504
+R_2zAp7MZjWbJtouD,de lift,145,de lift,de lift,de,lift,True,True,5.0,6,7.935
+R_1lgea30X5yRbWgb,Lift,145,Lift,lift,,-99,False,False,5.0,6,5.203
+R_1dg0dAPlymYfFcu,de lift,145,de lift,de lift,de,lift,True,True,5.0,6,3.728
+R_23TSscPxb3G1aSA,lift,145,lift,lift,,-99,False,False,5.0,6,4.06
+R_3effdDALVVpFhkK,de lift,145,de lift,de lift,de,lift,True,True,5.0,6,7.686
+R_2PpvbvcItA8LcqM,de lift,145,de lift,de lift,de,lift,True,True,2.0,4,23.079
+R_25WvorTEPc7DuHX,de lift,145,de lift,de lift,de,lift,True,True,5.0,6,8.388
+R_ZJCIt5D6m80Wim5,De lift,145,De lift,de lift,De,lift,True,True,3.0,6,9.84
+R_6gQpeEEoAOw1CNz,de lift,145,de lift,de lift,de,lift,True,True,5.0,6,5.061
+R_UcJP3naTdDXJEDn,De lift,145,De lift,de lift,De,lift,True,True,5.0,6,3.797
+R_21pKbw8vqrjpJ4Q,de lift,145,de lift,de lift,de,lift,True,True,5.0,5,14.398
+R_1HiWKvIl546M44z,de lift,145,de lift,de lift,de,lift,True,True,3.0,6,3.744
+R_BFIiDPrnKiKOhkB,de lift ,145,de lift,de lift,de,lift,True,True,3.0,6,4.985
+R_232AZeZQOdbRSAK,de lift,145,de lift,de lift,de,lift,True,True,5.0,6,4.888
+R_1odMwWpdALe3A7c,de lift,145,de lift,de lift,de,lift,True,True,5.0,6,2.712
+R_3CMZ1prTdwstnIi,de lift ,145,de lift,de lift,de,lift,True,True,5.0,6,2.009
+R_2SDkvNUYWKzQ9b4,de lift,145,de lift,de lift,de,lift,True,True,4.0,3,2.226
+R_2qwqWlqovi1EnxK,de lift,145,de lift,de lift,de,lift,True,True,5.0,6,6.955
+R_1nSW9rReHHlwpSQ,De lift ,145,De lift,de lift,De,lift,True,True,5.0,6,3.407
+R_3FPt6NNv7fs4bHV,de lift,145,de lift,de lift,de,lift,True,True,5.0,6,4.987
+R_2uOs8d5Okoyss7z,de lift,145,de lift,de lift,de,lift,True,True,3.0,5,6.136
+R_1JEdl2aEMuUO63f,de lift,145,de lift,de lift,de,lift,True,True,5.0,6,3.408
+R_6L3ln2BoQAzJw2d,de lift,145,de lift,de lift,de,lift,True,True,5.0,6,1.488
+R_xAA7goWcKMvmb1D,de lift,145,de lift,de lift,de,lift,True,True,3.0,5,1.075
+R_248iCMeSwyLS8sF,de lift,145,de lift,de lift,de,lift,True,True,4.0,5,4.096
+R_OING4tGkg3q8VLb,de lift,145,de lift,de lift,de,lift,True,True,4.0,5,17.237
+R_3kvbwPackXPANmo,de lift,145,de lift,de lift,de,lift,True,True,3.0,6,2.263
+R_3lRiG6M8Z6vKWZh,de lift,145,de lift,de lift,de,lift,True,True,5.0,6,4.39
+R_3q9cZ9NJjEx872v,de deur,145,de deur,de deur,de,deur,True,True,2.0,6,6.611
+R_ABt8n7PxUqkXqy5,De lift,145,De lift,de lift,De,lift,True,True,3.0,5,5.119
+R_3k6rPDoCD4kup7x,de lift,145,de lift,de lift,de,lift,True,True,5.0,6,6.602
+R_p6iBXJstulO97Jn,de lift,145,de lift,de lift,de,lift,True,True,5.0,6,3.192
+R_USFewLQTXHp0kPT,de lift,145,de lift,de lift,de,lift,True,True,4.0,6,0.644
+R_vrAH2qrxu41QSv7,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,7.361
+R_6Pg4ql6MQumxZo9,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,2.408
+R_1QaBlAsk46HI9NJ,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,3.819
+R_pKtuHvEeh5mujgl,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,3.845
+R_RrYmeJDnKB3hv7r,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,3.059
+R_2alPe2ZkILnzWYp,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,4.988
+R_24zMzQY1U9LX5Gf,de fiets,146,de fiets,de fiets,de,fiets,True,True,5.0,6,2.913
+R_2zAp7MZjWbJtouD,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,6.101
+R_1lgea30X5yRbWgb,Auto,146,Auto,auto,,-99,False,False,5.0,6,15.032
+R_1dg0dAPlymYfFcu,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,3.323
+R_23TSscPxb3G1aSA,auto,146,auto,auto,,-99,False,False,5.0,6,5.358
+R_3effdDALVVpFhkK,de brommer,146,de brommer,de brommer,de,brommer,True,True,4.0,5,5.841
+R_2PpvbvcItA8LcqM,de auto,146,de auto,de auto,de,auto,True,True,2.0,4,12.727
+R_25WvorTEPc7DuHX,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,6.15
+R_ZJCIt5D6m80Wim5,De auto,146,De auto,de auto,De,auto,True,True,4.0,6,4.033
+R_6gQpeEEoAOw1CNz,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,3.5
+R_UcJP3naTdDXJEDn,De auto ,146,De auto,de auto,De,auto,True,True,5.0,6,7.454
+R_21pKbw8vqrjpJ4Q,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,6.678
+R_1HiWKvIl546M44z,de auto,146,de auto,de auto,de,auto,True,True,4.0,6,4.366
+R_BFIiDPrnKiKOhkB,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,4.301
+R_232AZeZQOdbRSAK,de fiets,146,de fiets,de fiets,de,fiets,True,True,5.0,6,6.517
+R_1odMwWpdALe3A7c,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,4.749
+R_3CMZ1prTdwstnIi,de auto ,146,de auto,de auto,de,auto,True,True,5.0,6,2.908
+R_2SDkvNUYWKzQ9b4,de auto,146,de auto,de auto,de,auto,True,True,5.0,5,2.958
+R_2qwqWlqovi1EnxK,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,5.689
+R_1nSW9rReHHlwpSQ,De auto,146,De auto,de auto,De,auto,True,True,5.0,6,4.536
+R_3FPt6NNv7fs4bHV,de fiets,146,de fiets,de fiets,de,fiets,True,True,5.0,6,4.062
+R_2uOs8d5Okoyss7z,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,3.237
+R_1JEdl2aEMuUO63f,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,4.121
+R_6L3ln2BoQAzJw2d,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,1.218
+R_xAA7goWcKMvmb1D,de fiets,146,de fiets,de fiets,de,fiets,True,True,5.0,6,5.666
+R_248iCMeSwyLS8sF,de tuk-tuk,146,de tuk-tuk,de tuk-tuk,,-99,False,False,4.0,5,4.886
+R_OING4tGkg3q8VLb,de auto,146,de auto,de auto,de,auto,True,True,4.0,5,18.987
+R_3kvbwPackXPANmo,de auto,146,de auto,de auto,de,auto,True,True,4.0,6,1.56
+R_3lRiG6M8Z6vKWZh,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,4.75
+R_3q9cZ9NJjEx872v,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,4.805
+R_ABt8n7PxUqkXqy5,De auto,146,De auto,de auto,De,auto,True,True,5.0,6,3.368
+R_3k6rPDoCD4kup7x,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,4.392
+R_p6iBXJstulO97Jn,De auto,146,De auto,de auto,De,auto,True,True,5.0,6,3.624
+R_USFewLQTXHp0kPT,de auto,146,de auto,de auto,de,auto,True,True,5.0,6,4.314
+R_vrAH2qrxu41QSv7,de politie,147,de politie,de politie,de,politie,True,True,5.0,6,11.047
+R_6Pg4ql6MQumxZo9,de politie,147,de politie,de politie,de,politie,True,True,5.0,6,2.934
+R_1QaBlAsk46HI9NJ,de politie,147,de politie,de politie,de,politie,True,True,5.0,6,4.58
+R_pKtuHvEeh5mujgl,de politie,147,de politie,de politie,de,politie,True,True,5.0,6,2.712
+R_RrYmeJDnKB3hv7r,de politie ,147,de politie,de politie,de,politie,True,True,5.0,6,4.454
+R_2alPe2ZkILnzWYp,de politie,147,de politie,de politie,de,politie,True,True,5.0,6,9.528
+R_24zMzQY1U9LX5Gf,de politie,147,de politie,de politie,de,politie,True,True,5.0,6,2.319
+R_2zAp7MZjWbJtouD,de politie,147,de politie,de politie,de,politie,True,True,5.0,6,11.923
+R_1lgea30X5yRbWgb,Politie,147,Politie,politie,,-99,False,False,5.0,6,19.431
+R_1dg0dAPlymYfFcu,de politie,147,de politie,de politie,de,politie,True,True,5.0,6,1.819
+R_23TSscPxb3G1aSA,politie,147,politie,politie,,-99,False,False,5.0,6,4.872
+R_3effdDALVVpFhkK,de politie ,147,de politie,de politie,de,politie,True,True,5.0,6,5.103
+R_2PpvbvcItA8LcqM,de politie,147,de politie,de politie,de,politie,True,True,5.0,6,7.042
+R_25WvorTEPc7DuHX,de politie,147,de politie,de politie,de,politie,True,True,5.0,6,6.779
+R_ZJCIt5D6m80Wim5,De politie,147,De politie,de politie,De,politie,True,True,3.0,6,7.42
+R_6gQpeEEoAOw1CNz,de politie ,147,de politie,de politie,de,politie,True,True,5.0,6,2.479
+R_UcJP3naTdDXJEDn,De politie ,147,De politie,de politie,De,politie,True,True,5.0,6,5.574
+R_21pKbw8vqrjpJ4Q,de politie,147,de politie,de politie,de,politie,True,True,5.0,6,6.84
+R_1HiWKvIl546M44z,de politie,147,de politie,de politie,de,politie,True,True,4.0,6,5.423
+R_BFIiDPrnKiKOhkB,de politie,147,de politie,de politie,de,politie,True,True,5.0,6,4.987
+R_232AZeZQOdbRSAK,de politie,147,de politie,de politie,de,politie,True,True,4.0,6,9.036
+R_1odMwWpdALe3A7c,de politie,147,de politie,de politie,de,politie,True,True,5.0,6,4.508
+R_3CMZ1prTdwstnIi,de politie ,147,de politie,de politie,de,politie,True,True,4.0,6,3.278
+R_2SDkvNUYWKzQ9b4,de politie,147,de politie,de politie,de,politie,True,True,5.0,6,2.425
+R_2qwqWlqovi1EnxK,de politie,147,de politie,de politie,de,politie,True,True,4.0,6,10.99
+R_1nSW9rReHHlwpSQ,De politie ,147,De politie,de politie,De,politie,True,True,5.0,6,6.305
+R_3FPt6NNv7fs4bHV,de politie,147,de politie,de politie,de,politie,True,True,4.0,6,3.861
+R_2uOs8d5Okoyss7z,de politie ,147,de politie,de politie,de,politie,True,True,4.0,6,6.532
+R_1JEdl2aEMuUO63f,de politie ,147,de politie,de politie,de,politie,True,True,5.0,6,3.84
+R_6L3ln2BoQAzJw2d,de politie,147,de politie,de politie,de,politie,True,True,5.0,6,1.733
+R_xAA7goWcKMvmb1D,de politie,147,de politie,de politie,de,politie,True,True,2.0,5,3.725
+R_248iCMeSwyLS8sF,de politie,147,de politie,de politie,de,politie,True,True,4.0,5,11.838
+R_OING4tGkg3q8VLb,de verzekeraar,147,de verzekeraar,de verzekeraar,de,verzekeraar,True,True,3.0,4,15.257
+R_3kvbwPackXPANmo,de politie,147,de politie,de politie,de,politie,True,True,5.0,6,2.265
+R_3lRiG6M8Z6vKWZh,de politie,147,de politie,de politie,de,politie,True,True,5.0,6,4.931
+R_3q9cZ9NJjEx872v,de politie,147,de politie,de politie,de,politie,True,True,5.0,6,6.118
+R_ABt8n7PxUqkXqy5,De politie,147,De politie,de politie,De,politie,True,True,5.0,6,5.784
+R_3k6rPDoCD4kup7x,de politie,147,de politie,de politie,de,politie,True,True,5.0,6,4.238
+R_p6iBXJstulO97Jn,De politie,147,De politie,de politie,De,politie,True,True,5.0,6,3.898
+R_USFewLQTXHp0kPT,de politie,147,de politie,de politie,de,politie,True,True,4.0,6,0.282
+R_vrAH2qrxu41QSv7,de bank,148,de bank,de bank,de,bank,True,True,5.0,6,6.595
+R_6Pg4ql6MQumxZo9,de bank,148,de bank,de bank,de,bank,True,True,5.0,6,1.602
+R_1QaBlAsk46HI9NJ,de bank,148,de bank,de bank,de,bank,True,True,5.0,6,6.057
+R_pKtuHvEeh5mujgl,de bank,148,de bank,de bank,de,bank,True,True,4.0,6,4.577
+R_RrYmeJDnKB3hv7r,de bank,148,de bank,de bank,de,bank,True,True,5.0,6,3.812
+R_2alPe2ZkILnzWYp,een spaarrekening,148,een spaarrekening,een spaarrekening,een,spaarrekening,False,True,5.0,6,4.68
+R_24zMzQY1U9LX5Gf,een spaarrekening,148,een spaarrekening,een spaarrekening,een,spaarrekening,False,True,5.0,6,3.443
+R_2zAp7MZjWbJtouD,de bank ,148,de bank,de bank,de,bank,True,True,5.0,6,15.611
+R_1lgea30X5yRbWgb,Spaarrekening,148,Spaarrekening,spaarrekening,,-99,False,False,5.0,6,7.069
+R_1dg0dAPlymYfFcu,de bank,148,de bank,de bank,de,bank,True,True,5.0,6,3.556
+R_23TSscPxb3G1aSA,Bank,148,Bank,bank,,-99,False,False,3.0,6,27.178
+R_3effdDALVVpFhkK,de bank,148,de bank,de bank,de,bank,True,True,4.0,5,6.825
+R_2PpvbvcItA8LcqM,je rekening,148,je rekening,je rekening,je,rekening,False,True,2.0,5,8.138
+R_25WvorTEPc7DuHX,de bank,148,de bank,de bank,de,bank,True,True,5.0,6,4.799
+R_ZJCIt5D6m80Wim5,Een spaarrekening,148,Een spaarrekening,een spaarrekening,Een,spaarrekening,False,True,5.0,6,4.685
+R_6gQpeEEoAOw1CNz,de bank,148,de bank,de bank,de,bank,True,True,5.0,6,4.364
+R_UcJP3naTdDXJEDn,De bank,148,De bank,de bank,De,bank,True,True,,6,8.496
+R_21pKbw8vqrjpJ4Q,de bank,148,de bank,de bank,de,bank,True,True,5.0,6,8.101
+R_1HiWKvIl546M44z,een spaarrekening,148,een spaarrekening,een spaarrekening,een,spaarrekening,False,True,4.0,6,8.273
+R_BFIiDPrnKiKOhkB,een spaarrekening,148,een spaarrekening,een spaarrekening,een,spaarrekening,False,True,5.0,6,4.205
+R_232AZeZQOdbRSAK,de bank,148,de bank,de bank,de,bank,True,True,5.0,6,4.596
+R_1odMwWpdALe3A7c,de bank,148,de bank,de bank,de,bank,True,True,4.0,5,9.059
+R_3CMZ1prTdwstnIi,een spaarrekening,148,een spaarrekening,een spaarrekening,een,spaarrekening,False,True,5.0,4,3.983
+R_2SDkvNUYWKzQ9b4,de bank,148,de bank,de bank,de,bank,True,True,2.0,3,13.642
+R_2qwqWlqovi1EnxK,de bank,148,de bank,de bank,de,bank,True,True,4.0,5,15.428
+R_1nSW9rReHHlwpSQ,De bank,148,De bank,de bank,De,bank,True,True,5.0,5,7.36
+R_3FPt6NNv7fs4bHV,de bank,148,de bank,de bank,de,bank,True,True,5.0,6,4.144
+R_2uOs8d5Okoyss7z,de bank,148,de bank,de bank,de,bank,True,True,3.0,5,7.125
+R_1JEdl2aEMuUO63f,de bank,148,de bank,de bank,de,bank,True,True,5.0,6,9.171
+R_6L3ln2BoQAzJw2d,de bank,148,de bank,de bank,de,bank,True,True,5.0,6,2.54
+R_xAA7goWcKMvmb1D,je rekening,148,je rekening,je rekening,je,rekening,False,True,4.0,5,4.993
+R_248iCMeSwyLS8sF,de bank,148,de bank,de bank,de,bank,True,True,4.0,5,10.383
+R_OING4tGkg3q8VLb,de rekening,148,de rekening,de rekening,de,rekening,True,True,3.0,4,10.201
+R_3kvbwPackXPANmo,de bank,148,de bank,de bank,de,bank,True,True,5.0,6,3.476
+R_3lRiG6M8Z6vKWZh,de bank,148,de bank,de bank,de,bank,True,True,5.0,6,5.665
+R_3q9cZ9NJjEx872v,de bank,148,de bank,de bank,de,bank,True,True,5.0,6,5.016
+R_ABt8n7PxUqkXqy5,De bank ,148,De bank,de bank,De,bank,True,True,5.0,6,8.766
+R_3k6rPDoCD4kup7x,de bank,148,de bank,de bank,de,bank,True,True,5.0,6,4.963
+R_p6iBXJstulO97Jn,Een bankrekening,148,Een bankrekening,een bankrekening,Een,bankrekening,False,True,5.0,6,5.388
+R_USFewLQTXHp0kPT,de bank,148,de bank,de bank,de,bank,True,True,5.0,6,1.091
+R_vrAH2qrxu41QSv7,het platteland,149,het platteland,het platteland,het,platteland,True,True,5.0,6,7.373
+R_6Pg4ql6MQumxZo9,het platteland,149,het platteland,het platteland,het,platteland,True,True,4.0,3,1.365
+R_1QaBlAsk46HI9NJ,het platteland,149,het platteland,het platteland,het,platteland,True,True,3.0,3,11.03
+R_pKtuHvEeh5mujgl,het platteland,149,het platteland,het platteland,het,platteland,True,True,5.0,6,5.09
+R_RrYmeJDnKB3hv7r,het platteland ,149,het platteland,het platteland,het,platteland,True,True,5.0,6,15.897
+R_2alPe2ZkILnzWYp,het platteland,149,het platteland,het platteland,het,platteland,True,True,5.0,6,12.191
+R_24zMzQY1U9LX5Gf,het platteland,149,het platteland,het platteland,het,platteland,True,True,5.0,6,5.15
+R_2zAp7MZjWbJtouD,het land,149,het land,het land,het,land,True,True,3.0,4,51.061
+R_1lgea30X5yRbWgb,Platteland,149,Platteland,platteland,,-99,False,False,2.0,6,26.046
+R_1dg0dAPlymYfFcu,het platteland,149,het platteland,het platteland,het,platteland,True,True,2.0,6,6.029
+R_23TSscPxb3G1aSA,platteland,149,platteland,platteland,,-99,False,False,5.0,6,6.143
+R_3effdDALVVpFhkK,de veluwe,149,de veluwe,de veluwe,de,veluwe,True,False,5.0,6,12.594
+R_2PpvbvcItA8LcqM,het platteland,149,het platteland,het platteland,het,platteland,True,True,5.0,6,10.269
+R_25WvorTEPc7DuHX,het platteland,149,het platteland,het platteland,het,platteland,True,True,5.0,6,8.948
+R_ZJCIt5D6m80Wim5,Het platteland,149,Het platteland,het platteland,Het,platteland,True,True,1.0,6,15.365
+R_6gQpeEEoAOw1CNz,het platteland,149,het platteland,het platteland,het,platteland,True,True,5.0,2,10.849
+R_UcJP3naTdDXJEDn,Het platteland ,149,Het platteland,het platteland,Het,platteland,True,True,3.0,4,37.761
+R_21pKbw8vqrjpJ4Q,het platteland,149,het platteland,het platteland,het,platteland,True,True,5.0,5,14.553
+R_1HiWKvIl546M44z,de plaatsen,149,de plaatsen,de plaatsen,de,plaatsen,True,True,2.0,3,53.948
+R_BFIiDPrnKiKOhkB,GI,149,GI,gi,,-99,False,False,1.0,2,2.819
+R_232AZeZQOdbRSAK,het platteland,149,het platteland,het platteland,het,platteland,True,True,3.0,5,28.362
+R_1odMwWpdALe3A7c,het platteland,149,het platteland,het platteland,het,platteland,True,True,1.0,2,4.306
+R_3CMZ1prTdwstnIi,het platteland,149,het platteland,het platteland,het,platteland,True,True,5.0,6,3.63
+R_2SDkvNUYWKzQ9b4,het platteland,149,het platteland,het platteland,het,platteland,True,True,4.0,5,4.119
+R_2qwqWlqovi1EnxK,het platteland,149,het platteland,het platteland,het,platteland,True,True,5.0,6,14.037
+R_1nSW9rReHHlwpSQ,Het platteland ,149,Het platteland,het platteland,Het,platteland,True,True,3.0,5,15.997
+R_3FPt6NNv7fs4bHV,het platteland,149,het platteland,het platteland,het,platteland,True,True,4.0,5,5.843
+R_2uOs8d5Okoyss7z,het platteland ,149,het platteland,het platteland,het,platteland,True,True,3.0,5,3.086
+R_1JEdl2aEMuUO63f,het platteland,149,het platteland,het platteland,het,platteland,True,True,5.0,6,4.764
+R_6L3ln2BoQAzJw2d,het platteland,149,het platteland,het platteland,het,platteland,True,True,5.0,6,1.706
+R_xAA7goWcKMvmb1D,het platteland,149,het platteland,het platteland,het,platteland,True,True,3.0,3,4.823
+R_248iCMeSwyLS8sF,het boerengat,149,het boerengat,het boerengat,het,boerengat,True,True,4.0,5,6.94
+R_OING4tGkg3q8VLb,een land,149,een land,een land,een,land,False,True,2.0,4,10.352
+R_3kvbwPackXPANmo,het platteland,149,het platteland,het platteland,het,platteland,True,True,5.0,6,2.966
+R_3lRiG6M8Z6vKWZh,het platteland,149,het platteland,het platteland,het,platteland,True,True,4.0,6,7.19
+R_3q9cZ9NJjEx872v,het platteland,149,het platteland,het platteland,het,platteland,True,True,1.0,6,5.845
+R_ABt8n7PxUqkXqy5,Het platteland ,149,Het platteland,het platteland,Het,platteland,True,True,4.0,6,6.454
+R_3k6rPDoCD4kup7x,het platteland,149,het platteland,het platteland,het,platteland,True,True,5.0,6,14.373
+R_p6iBXJstulO97Jn,Het platteland,149,Het platteland,het platteland,Het,platteland,True,True,5.0,6,8.634
+R_USFewLQTXHp0kPT,het platteland,149,het platteland,het platteland,het,platteland,True,True,4.0,4,0.848
+R_vrAH2qrxu41QSv7,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,3.954
+R_6Pg4ql6MQumxZo9,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,2.754
+R_1QaBlAsk46HI9NJ,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,4.309
+R_pKtuHvEeh5mujgl,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,2.488
+R_RrYmeJDnKB3hv7r,de koelkast ,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,5.746
+R_2alPe2ZkILnzWYp,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,3.839
+R_24zMzQY1U9LX5Gf,koelkast,150,koelkast,koelkast,,-99,False,False,5.0,6,3.436
+R_2zAp7MZjWbJtouD,de koelkast ,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,10.758
+R_1lgea30X5yRbWgb,Koelkast,150,Koelkast,koelkast,,-99,False,False,5.0,6,5.045
+R_1dg0dAPlymYfFcu,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,6.504
+R_23TSscPxb3G1aSA,koelkast,150,koelkast,koelkast,,-99,False,False,5.0,6,4.355
+R_3effdDALVVpFhkK,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,16.234
+R_2PpvbvcItA8LcqM,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,8.034
+R_25WvorTEPc7DuHX,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,7.599
+R_ZJCIt5D6m80Wim5,De koelkast,150,De koelkast,de koelkast,De,koelkast,True,True,5.0,6,3.661
+R_6gQpeEEoAOw1CNz,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,3.131
+R_UcJP3naTdDXJEDn,De koelkast ,150,De koelkast,de koelkast,De,koelkast,True,True,5.0,6,11.883
+R_21pKbw8vqrjpJ4Q,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,5.573
+R_1HiWKvIl546M44z,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,3.0,6,3.143
+R_BFIiDPrnKiKOhkB,de koelkast ,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,3.349
+R_232AZeZQOdbRSAK,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,3.184
+R_1odMwWpdALe3A7c,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,2.673
+R_3CMZ1prTdwstnIi,de koelkast ,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,2.626
+R_2SDkvNUYWKzQ9b4,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,2.167
+R_2qwqWlqovi1EnxK,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,2.0,6,5.017
+R_1nSW9rReHHlwpSQ,De koelkast ,150,De koelkast,de koelkast,De,koelkast,True,True,5.0,6,7.339
+R_3FPt6NNv7fs4bHV,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,4.0,6,7.391
+R_2uOs8d5Okoyss7z,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,4.0,6,2.982
+R_1JEdl2aEMuUO63f,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,5.291
+R_6L3ln2BoQAzJw2d,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,2.005
+R_xAA7goWcKMvmb1D,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,3.0,6,4.904
+R_248iCMeSwyLS8sF,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,4.0,6,25.992
+R_OING4tGkg3q8VLb,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,4.572
+R_3kvbwPackXPANmo,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,2.288
+R_3lRiG6M8Z6vKWZh,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,5.301
+R_3q9cZ9NJjEx872v,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,3.0,6,7.374
+R_ABt8n7PxUqkXqy5,De koelkast,150,De koelkast,de koelkast,De,koelkast,True,True,5.0,6,3.492
+R_3k6rPDoCD4kup7x,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,4.776
+R_p6iBXJstulO97Jn,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,3.34
+R_USFewLQTXHp0kPT,de koelkast,150,de koelkast,de koelkast,de,koelkast,True,True,5.0,6,0.655
+R_vrAH2qrxu41QSv7,de vorken,151,de vorken,de vorken,de,vorken,True,True,5.0,6,15.525
+R_6Pg4ql6MQumxZo9,het bestek,151,het bestek,het bestek,het,bestek,True,True,5.0,6,1.446
+R_1QaBlAsk46HI9NJ,het bestek,151,het bestek,het bestek,het,bestek,True,True,5.0,6,9.588
+R_pKtuHvEeh5mujgl,het bestek,151,het bestek,het bestek,het,bestek,True,True,5.0,5,4.888
+R_RrYmeJDnKB3hv7r,het bestek,151,het bestek,het bestek,het,bestek,True,True,4.0,6,10.303
+R_2alPe2ZkILnzWYp,het bestek,151,het bestek,het bestek,het,bestek,True,True,1.0,6,7.006
+R_24zMzQY1U9LX5Gf,het bestek,151,het bestek,het bestek,het,bestek,True,True,5.0,6,3.156
+R_2zAp7MZjWbJtouD,het bestek,151,het bestek,het bestek,het,bestek,True,True,1.0,6,17.262
+R_1lgea30X5yRbWgb,Bestek,151,Bestek,bestek,,-99,False,False,4.0,6,10.105
+R_1dg0dAPlymYfFcu,het bestek,151,het bestek,het bestek,het,bestek,True,True,5.0,5,3.862
+R_23TSscPxb3G1aSA,bestek,151,bestek,bestek,,-99,False,False,5.0,5,7.63
+R_3effdDALVVpFhkK,het bestek ,151,het bestek,het bestek,het,bestek,True,True,4.0,5,9.647
+R_2PpvbvcItA8LcqM,het bestek,151,het bestek,het bestek,het,bestek,True,True,5.0,6,8.588
+R_25WvorTEPc7DuHX,het bestek,151,het bestek,het bestek,het,bestek,True,True,5.0,6,6.032
+R_ZJCIt5D6m80Wim5,Het bestek,151,Het bestek,het bestek,Het,bestek,True,True,1.0,6,10.145
+R_6gQpeEEoAOw1CNz,een opscheplepel,151,een opscheplepel,een opscheplepel,een,opscheplepel,False,True,5.0,6,4.936
+R_UcJP3naTdDXJEDn,Het bestek,151,Het bestek,het bestek,Het,bestek,True,True,4.0,6,12.462
+R_21pKbw8vqrjpJ4Q,het bestek,151,het bestek,het bestek,het,bestek,True,True,5.0,6,7.553
+R_1HiWKvIl546M44z,het bestek,151,het bestek,het bestek,het,bestek,True,True,3.0,6,4.769
+R_BFIiDPrnKiKOhkB,het bestek,151,het bestek,het bestek,het,bestek,True,True,5.0,6,6.407
+R_232AZeZQOdbRSAK,het bestek,151,het bestek,het bestek,het,bestek,True,True,4.0,6,4.078
+R_1odMwWpdALe3A7c,het bestek,151,het bestek,het bestek,het,bestek,True,True,4.0,5,5.9
+R_3CMZ1prTdwstnIi,bestek ,151,bestek,bestek,,-99,False,False,5.0,5,2.572
+R_2SDkvNUYWKzQ9b4,het bestek,151,het bestek,het bestek,het,bestek,True,True,4.0,5,6.005
+R_2qwqWlqovi1EnxK,het bestek,151,het bestek,het bestek,het,bestek,True,True,4.0,5,13.325
+R_1nSW9rReHHlwpSQ,Het bestek,151,Het bestek,het bestek,Het,bestek,True,True,5.0,6,13.942
+R_3FPt6NNv7fs4bHV,het bestek,151,het bestek,het bestek,het,bestek,True,True,4.0,6,8.59
+R_2uOs8d5Okoyss7z,het bestek,151,het bestek,het bestek,het,bestek,True,True,2.0,5,6.162
+R_1JEdl2aEMuUO63f,het bestek,151,het bestek,het bestek,het,bestek,True,True,5.0,6,4.185
+R_6L3ln2BoQAzJw2d,het bestek,151,het bestek,het bestek,het,bestek,True,True,5.0,6,1.407
+R_xAA7goWcKMvmb1D,het bestek,151,het bestek,het bestek,het,bestek,True,True,4.0,5,370.674
+R_248iCMeSwyLS8sF,het bestek,151,het bestek,het bestek,het,bestek,True,True,5.0,6,22.524
+R_OING4tGkg3q8VLb,het bestek,151,het bestek,het bestek,het,bestek,True,True,4.0,5,1.477
+R_3kvbwPackXPANmo,het bestek,151,het bestek,het bestek,het,bestek,True,True,2.0,6,1.999
+R_3lRiG6M8Z6vKWZh,het bestek,151,het bestek,het bestek,het,bestek,True,True,5.0,6,7.219
+R_3q9cZ9NJjEx872v,het bestek,151,het bestek,het bestek,het,bestek,True,True,5.0,6,8.064
+R_ABt8n7PxUqkXqy5,Het bestek,151,Het bestek,het bestek,Het,bestek,True,True,4.0,6,7.157
+R_3k6rPDoCD4kup7x,het bestek,151,het bestek,het bestek,het,bestek,True,True,5.0,6,5.598
+R_p6iBXJstulO97Jn,Het bestek,151,Het bestek,het bestek,Het,bestek,True,True,3.0,6,8.294
+R_USFewLQTXHp0kPT,het bestek,151,het bestek,het bestek,het,bestek,True,True,4.0,5,0.894
+R_vrAH2qrxu41QSv7,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,False,5.0,6,3.826
+R_6Pg4ql6MQumxZo9,de dokter,152,de dokter,de dokter,de,dokter,True,True,5.0,6,6.717
+R_1QaBlAsk46HI9NJ,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,5.0,6,3.489
+R_pKtuHvEeh5mujgl,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,5.0,6,2.785
+R_RrYmeJDnKB3hv7r,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,5.0,6,6.753
+R_2alPe2ZkILnzWYp,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,5.0,6,3.186
+R_24zMzQY1U9LX5Gf,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,5.0,6,2.624
+R_2zAp7MZjWbJtouD,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,4.0,6,13.062
+R_1lgea30X5yRbWgb,Dierenarts,152,Dierenarts,dierenarts,,-99,False,False,5.0,6,14.112
+R_1dg0dAPlymYfFcu,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,4.0,6,4.524
+R_23TSscPxb3G1aSA,dierenarts,152,dierenarts,dierenarts,,-99,False,False,5.0,6,4.375
+R_3effdDALVVpFhkK,de dierenarts ,152,de dierenarts,de dierenarts,de,dierenarts,True,True,5.0,6,4.956
+R_2PpvbvcItA8LcqM,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,5.0,6,4.302
+R_25WvorTEPc7DuHX,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,5.0,6,3.987
+R_ZJCIt5D6m80Wim5,De dierenarts,152,De dierenarts,de dierenarts,De,dierenarts,True,True,5.0,6,7.391
+R_6gQpeEEoAOw1CNz,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,5.0,6,2.192
+R_UcJP3naTdDXJEDn,De dierenarts ,152,De dierenarts,de dierenarts,De,dierenarts,True,True,5.0,6,6.084
+R_21pKbw8vqrjpJ4Q,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,4.0,6,5.737
+R_1HiWKvIl546M44z,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,3.0,6,3.531
+R_BFIiDPrnKiKOhkB,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,5.0,6,3.678
+R_232AZeZQOdbRSAK,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,4.0,6,4.228
+R_1odMwWpdALe3A7c,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,4.0,6,2.339
+R_3CMZ1prTdwstnIi,de dierenarts ,152,de dierenarts,de dierenarts,de,dierenarts,True,True,5.0,6,1.832
+R_2SDkvNUYWKzQ9b4,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,1.0,5,2.45
+R_2qwqWlqovi1EnxK,de dierendokter,152,de dierendokter,de dierendokter,de,dierendokter,True,False,5.0,5,4.266
+R_1nSW9rReHHlwpSQ,De dierenarts,152,De dierenarts,de dierenarts,De,dierenarts,True,True,5.0,6,1.815
+R_3FPt6NNv7fs4bHV,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,5.0,6,4.029
+R_2uOs8d5Okoyss7z,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,5.0,6,2.5
+R_1JEdl2aEMuUO63f,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,5.0,6,1.937
+R_6L3ln2BoQAzJw2d,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,5.0,6,2.18
+R_xAA7goWcKMvmb1D,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,1.0,4,3.299
+R_248iCMeSwyLS8sF,het asiel,152,het asiel,het asiel,het,asiel,True,True,4.0,5,6.345
+R_OING4tGkg3q8VLb,de dierenkliniek,152,de dierenkliniek,de dierenkliniek,de,dierenkliniek,True,False,3.0,4,4.756
+R_3kvbwPackXPANmo,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,5.0,6,2.733
+R_3lRiG6M8Z6vKWZh,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,5.0,6,2.905
+R_3q9cZ9NJjEx872v,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,1.0,6,4.41
+R_ABt8n7PxUqkXqy5,De dierenarts,152,De dierenarts,de dierenarts,De,dierenarts,True,True,5.0,6,2.335
+R_3k6rPDoCD4kup7x,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,5.0,6,4.772
+R_p6iBXJstulO97Jn,De dierenarts,152,De dierenarts,de dierenarts,De,dierenarts,True,True,5.0,6,3.521
+R_USFewLQTXHp0kPT,de dierenarts,152,de dierenarts,de dierenarts,de,dierenarts,True,True,5.0,6,0.596
+R_vrAH2qrxu41QSv7,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,5.0,6,4.394
+R_6Pg4ql6MQumxZo9,een gevangenis,153,een gevangenis,een gevangenis,een,gevangenis,False,True,2.0,6,2.308
+R_1QaBlAsk46HI9NJ,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,5.0,6,2.79
+R_pKtuHvEeh5mujgl,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,5.0,6,5.669
+R_RrYmeJDnKB3hv7r,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,5.0,6,3.034
+R_2alPe2ZkILnzWYp,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,4.0,6,3.732
+R_24zMzQY1U9LX5Gf,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,5.0,6,3.964
+R_2zAp7MZjWbJtouD,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,2.0,6,6.275
+R_1lgea30X5yRbWgb,Gevangenis,153,Gevangenis,gevangenis,,-99,False,False,5.0,6,4.79
+R_1dg0dAPlymYfFcu,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,4.0,6,2.804
+R_23TSscPxb3G1aSA,gevangenis,153,gevangenis,gevangenis,,-99,False,False,5.0,6,3.645
+R_3effdDALVVpFhkK,de gevangenis ,153,de gevangenis,de gevangenis,de,gevangenis,True,True,4.0,5,111.312
+R_2PpvbvcItA8LcqM,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,5.0,6,6.305
+R_25WvorTEPc7DuHX,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,5.0,6,4.993
+R_ZJCIt5D6m80Wim5,De gevangenis,153,De gevangenis,de gevangenis,De,gevangenis,True,True,1.0,6,22.899
+R_6gQpeEEoAOw1CNz,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,5.0,6,6.445
+R_UcJP3naTdDXJEDn,De gevangenis ,153,De gevangenis,de gevangenis,De,gevangenis,True,True,3.0,6,7.092
+R_21pKbw8vqrjpJ4Q,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,4.0,6,8.655
+R_1HiWKvIl546M44z,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,2.0,6,4.264
+R_BFIiDPrnKiKOhkB,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,2.0,6,2.714
+R_232AZeZQOdbRSAK,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,3.0,6,2.579
+R_1odMwWpdALe3A7c,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,3.0,6,3.013
+R_3CMZ1prTdwstnIi,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,3.0,6,2.625
+R_2SDkvNUYWKzQ9b4,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,3.0,6,2.105
+R_2qwqWlqovi1EnxK,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,4.0,6,3.973
+R_1nSW9rReHHlwpSQ,De gevangenis ,153,De gevangenis,de gevangenis,De,gevangenis,True,True,3.0,6,7.073
+R_3FPt6NNv7fs4bHV,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,4.0,6,2.272
+R_2uOs8d5Okoyss7z,de gevangenis ,153,de gevangenis,de gevangenis,de,gevangenis,True,True,3.0,5,1.967
+R_1JEdl2aEMuUO63f,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,5.0,6,2.866
+R_6L3ln2BoQAzJw2d,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,5.0,6,1.022
+R_xAA7goWcKMvmb1D,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,2.0,5,9.999
+R_248iCMeSwyLS8sF,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,2.0,4,11.746
+R_OING4tGkg3q8VLb,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,4.0,5,16.543
+R_3kvbwPackXPANmo,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,3.0,6,2.051
+R_3lRiG6M8Z6vKWZh,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,2.0,6,3.042
+R_3q9cZ9NJjEx872v,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,1.0,6,4.119
+R_ABt8n7PxUqkXqy5,De gevangenis ,153,De gevangenis,de gevangenis,De,gevangenis,True,True,4.0,6,2.998
+R_3k6rPDoCD4kup7x,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,5.0,6,3.914
+R_p6iBXJstulO97Jn,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,5.0,6,2.74
+R_USFewLQTXHp0kPT,de gevangenis,153,de gevangenis,de gevangenis,de,gevangenis,True,True,2.0,6,3.071
+R_vrAH2qrxu41QSv7,de economie,154,de economie,de economie,de,economie,True,True,5.0,6,8.101
+R_6Pg4ql6MQumxZo9,de economie,154,de economie,de economie,de,economie,True,True,4.0,6,1.565
+R_1QaBlAsk46HI9NJ,de economie,154,de economie,de economie,de,economie,True,True,5.0,6,4.466
+R_pKtuHvEeh5mujgl,de economie,154,de economie,de economie,de,economie,True,True,5.0,6,9.056
+R_RrYmeJDnKB3hv7r,de economie ,154,de economie,de economie,de,economie,True,True,5.0,6,6.809
+R_2alPe2ZkILnzWYp,de economie,154,de economie,de economie,de,economie,True,True,5.0,6,9.63
+R_24zMzQY1U9LX5Gf,de economie,154,de economie,de economie,de,economie,True,False,5.0,6,5.169
+R_2zAp7MZjWbJtouD,de economie ,154,de economie,de economie,de,economie,True,True,4.0,6,10.673
+R_1lgea30X5yRbWgb,Economie ,154,Economie,economie,,-99,False,False,5.0,6,6.858
+R_1dg0dAPlymYfFcu,de economie,154,de economie,de economie,de,economie,True,True,5.0,6,3.785
+R_23TSscPxb3G1aSA,economie,154,economie,economie,,-99,False,False,5.0,6,5.382
+R_3effdDALVVpFhkK,de economie ,154,de economie,de economie,de,economie,True,True,4.0,5,5.287
+R_2PpvbvcItA8LcqM,de economie,154,de economie,de economie,de,economie,True,False,5.0,6,4.933
+R_25WvorTEPc7DuHX,de economie,154,de economie,de economie,de,economie,True,True,5.0,6,8.201
+R_ZJCIt5D6m80Wim5,De economie,154,De economie,de economie,De,economie,True,True,3.0,6,7.53
+R_6gQpeEEoAOw1CNz,het welzijn,154,het welzijn,het welzijn,het,welzijn,True,True,4.0,3,3.366
+R_UcJP3naTdDXJEDn,De economie ,154,De economie,de economie,De,economie,True,True,4.0,6,10.694
+R_21pKbw8vqrjpJ4Q,de economie,154,de economie,de economie,de,economie,True,True,5.0,4,59.264
+R_1HiWKvIl546M44z,de economie,154,de economie,de economie,de,economie,True,True,4.0,6,4.382
+R_BFIiDPrnKiKOhkB,de economie,154,de economie,de economie,de,economie,True,True,5.0,6,9.619
+R_232AZeZQOdbRSAK,de economie,154,de economie,de economie,de,economie,True,True,5.0,6,7.784
+R_1odMwWpdALe3A7c,de economie,154,de economie,de economie,de,economie,True,True,5.0,6,4.345
+R_3CMZ1prTdwstnIi,de economie ,154,de economie,de economie,de,economie,True,True,5.0,6,2.96
+R_2SDkvNUYWKzQ9b4,de economie,154,de economie,de economie,de,economie,True,True,3.0,4,3.389
+R_2qwqWlqovi1EnxK,de economie,154,de economie,de economie,de,economie,True,True,5.0,6,9.442
+R_1nSW9rReHHlwpSQ,De economie ,154,De economie,de economie,De,economie,True,True,3.0,3,6.883
+R_3FPt6NNv7fs4bHV,de economie,154,de economie,de economie,de,economie,True,True,5.0,6,4.405
+R_2uOs8d5Okoyss7z,de economie ,154,de economie,de economie,de,economie,True,True,4.0,5,8.212
+R_1JEdl2aEMuUO63f,de economie,154,de economie,de economie,de,economie,True,True,5.0,6,5.674
+R_6L3ln2BoQAzJw2d,de economie,154,de economie,de economie,de,economie,True,True,5.0,6,2.844
+R_xAA7goWcKMvmb1D,de economie,154,de economie,de economie,de,economie,True,True,4.0,5,13.229
+R_248iCMeSwyLS8sF,de economie,154,de economie,de economie,de,economie,True,True,3.0,5,10.642
+R_OING4tGkg3q8VLb,de economie,154,de economie,de economie,de,economie,True,False,3.0,5,15.551
+R_3kvbwPackXPANmo,de economie,154,de economie,de economie,de,economie,True,True,5.0,6,3.858
+R_3lRiG6M8Z6vKWZh,de economie,154,de economie,de economie,de,economie,True,True,5.0,6,6.079
+R_3q9cZ9NJjEx872v,de economie,154,de economie,de economie,de,economie,True,True,5.0,6,8.792
+R_ABt8n7PxUqkXqy5,De economie,154,De economie,de economie,De,economie,True,True,4.0,6,6.144
+R_3k6rPDoCD4kup7x,de economie,154,de economie,de economie,de,economie,True,True,5.0,6,6.768
+R_p6iBXJstulO97Jn,de economie,154,de economie,de economie,de,economie,True,True,4.0,6,5.258
+R_USFewLQTXHp0kPT,de economie,154,de economie,de economie,de,economie,True,True,4.0,6,1.08
+R_vrAH2qrxu41QSv7,De schoorsteen,155,De schoorsteen,de schoorsteen,De,schoorsteen,True,True,5.0,6,0.614
+R_6Pg4ql6MQumxZo9,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,5,2.164
+R_1QaBlAsk46HI9NJ,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,4.0,6,79.139
+R_pKtuHvEeh5mujgl,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,6,5.112
+R_RrYmeJDnKB3hv7r,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,6,8.181
+R_2alPe2ZkILnzWYp,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,6,10.591
+R_24zMzQY1U9LX5Gf,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,6,6.565
+R_2zAp7MZjWbJtouD,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,6,6.142
+R_1lgea30X5yRbWgb,Schoorsteen,155,Schoorsteen,schoorsteen,,-99,False,False,4.0,6,7.105
+R_1dg0dAPlymYfFcu,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,6,4.818
+R_23TSscPxb3G1aSA,schoorsteen,155,schoorsteen,schoorsteen,,-99,False,False,5.0,6,4.441
+R_3effdDALVVpFhkK,de achtertuin ,155,de achtertuin,de achtertuin,de,achtertuin,True,True,4.0,5,9.923
+R_2PpvbvcItA8LcqM,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,6,6.682
+R_25WvorTEPc7DuHX,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,6,8.565
+R_ZJCIt5D6m80Wim5,De schoorsteen,155,De schoorsteen,de schoorsteen,De,schoorsteen,True,True,4.0,6,7.065
+R_6gQpeEEoAOw1CNz,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,6,3.555
+R_UcJP3naTdDXJEDn,De schoorsteen ,155,De schoorsteen,de schoorsteen,De,schoorsteen,True,True,5.0,6,5.896
+R_21pKbw8vqrjpJ4Q,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,6,8.086
+R_1HiWKvIl546M44z,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,2.0,6,6.635
+R_BFIiDPrnKiKOhkB,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,6,8.245
+R_232AZeZQOdbRSAK,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,6,6.499
+R_1odMwWpdALe3A7c,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,4.0,6,4.742
+R_3CMZ1prTdwstnIi,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,6,2.45
+R_2SDkvNUYWKzQ9b4,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,5,1.909
+R_2qwqWlqovi1EnxK,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,6,6.785
+R_1nSW9rReHHlwpSQ,De schoorsteen ,155,De schoorsteen,de schoorsteen,De,schoorsteen,True,True,5.0,6,3.309
+R_3FPt6NNv7fs4bHV,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,4.0,6,3.122
+R_2uOs8d5Okoyss7z,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,4.0,6,0.979
+R_1JEdl2aEMuUO63f,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,6,5.923
+R_6L3ln2BoQAzJw2d,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,6,2.346
+R_xAA7goWcKMvmb1D,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,3.0,6,16.066
+R_248iCMeSwyLS8sF,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,3.0,5,23.208
+R_OING4tGkg3q8VLb,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,3.0,4,43.604
+R_3kvbwPackXPANmo,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,4.0,6,2.359
+R_3lRiG6M8Z6vKWZh,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,6,6.423
+R_3q9cZ9NJjEx872v,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,4.0,6,9.057
+R_ABt8n7PxUqkXqy5,De schoorsteen ,155,De schoorsteen,de schoorsteen,De,schoorsteen,True,True,5.0,5,9.596
+R_3k6rPDoCD4kup7x,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,6,4.234
+R_p6iBXJstulO97Jn,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,6,4.706
+R_USFewLQTXHp0kPT,de schoorsteen,155,de schoorsteen,de schoorsteen,de,schoorsteen,True,True,5.0,6,3.56
+R_vrAH2qrxu41QSv7,het geld,156,het geld,het geld,het,geld,True,True,5.0,6,5.5
+R_6Pg4ql6MQumxZo9,het geld,156,het geld,het geld,het,geld,True,True,2.0,6,3.79
+R_1QaBlAsk46HI9NJ,het geld,156,het geld,het geld,het,geld,True,True,5.0,6,5.729
+R_pKtuHvEeh5mujgl,het geld,156,het geld,het geld,het,geld,True,True,5.0,6,5.392
+R_RrYmeJDnKB3hv7r,het geld,156,het geld,het geld,het,geld,True,True,5.0,6,4.02
+R_2alPe2ZkILnzWYp,het geld,156,het geld,het geld,het,geld,True,True,5.0,6,29.242
+R_24zMzQY1U9LX5Gf,het geld,156,het geld,het geld,het,geld,True,True,5.0,6,4.494
+R_2zAp7MZjWbJtouD,het geld ,156,het geld,het geld,het,geld,True,True,5.0,6,13.51
+R_1lgea30X5yRbWgb,Geld,156,Geld,geld,,-99,False,False,3.0,6,7.217
+R_1dg0dAPlymYfFcu,het geld,156,het geld,het geld,het,geld,True,True,5.0,6,3.085
+R_23TSscPxb3G1aSA,geld,156,geld,geld,,-99,False,False,4.0,5,5.053
+R_3effdDALVVpFhkK,de kas,156,de kas,de kas,de,kas,True,True,5.0,6,9.031
+R_2PpvbvcItA8LcqM,de geldla,156,de geldla,de geldla,de,geldla,True,True,2.0,3,6.701
+R_25WvorTEPc7DuHX,het geld,156,het geld,het geld,het,geld,True,True,5.0,6,7.601
+R_ZJCIt5D6m80Wim5,De inhoud,156,De inhoud,de inhoud,De,inhoud,True,True,3.0,6,7.43
+R_6gQpeEEoAOw1CNz,het geld ,156,het geld,het geld,het,geld,True,True,5.0,6,9.073
+R_UcJP3naTdDXJEDn,De inhoud ,156,De inhoud,de inhoud,De,inhoud,True,True,4.0,6,18.349
+R_21pKbw8vqrjpJ4Q,de geldlade,156,de geldlade,de geldlade,de,geldlade,True,True,4.0,6,14.325
+R_1HiWKvIl546M44z,het geld,156,het geld,het geld,het,geld,True,True,4.0,6,4.314
+R_BFIiDPrnKiKOhkB,het geld,156,het geld,het geld,het,geld,True,True,5.0,6,8.218
+R_232AZeZQOdbRSAK,het geld,156,het geld,het geld,het,geld,True,True,5.0,6,5.982
+R_1odMwWpdALe3A7c,het geld,156,het geld,het geld,het,geld,True,True,2.0,3,9.777
+R_3CMZ1prTdwstnIi,het geld ,156,het geld,het geld,het,geld,True,True,3.0,3,2.903
+R_2SDkvNUYWKzQ9b4,het geld,156,het geld,het geld,het,geld,True,True,1.0,3,3.185
+R_2qwqWlqovi1EnxK,het geld,156,het geld,het geld,het,geld,True,True,4.0,6,6.616
+R_1nSW9rReHHlwpSQ,Het geld,156,Het geld,het geld,Het,geld,True,True,4.0,5,21.512
+R_3FPt6NNv7fs4bHV,het geld,156,het geld,het geld,het,geld,True,True,3.0,6,3.954
+R_2uOs8d5Okoyss7z,het geld,156,het geld,het geld,het,geld,True,True,3.0,5,7.992
+R_1JEdl2aEMuUO63f,de inhoud,156,de inhoud,de inhoud,de,inhoud,True,True,5.0,6,5.108
+R_6L3ln2BoQAzJw2d,het geld,156,het geld,het geld,het,geld,True,True,5.0,6,1.877
+R_xAA7goWcKMvmb1D,geld,156,geld,geld,,-99,False,False,4.0,5,18.644
+R_248iCMeSwyLS8sF,de knuffelbeer,156,de knuffelbeer,de knuffelbeer,de,knuffelbeer,True,True,5.0,5,10.331
+R_OING4tGkg3q8VLb,het geld,156,het geld,het geld,het,geld,True,True,4.0,5,8.001
+R_3kvbwPackXPANmo,het geld,156,het geld,het geld,het,geld,True,True,4.0,6,4.609
+R_3lRiG6M8Z6vKWZh,het geld,156,het geld,het geld,het,geld,True,True,5.0,6,4.934
+R_3q9cZ9NJjEx872v,het geld,156,het geld,het geld,het,geld,True,True,3.0,4,9.43
+R_ABt8n7PxUqkXqy5,Het geld,156,Het geld,het geld,Het,geld,True,True,5.0,6,8.254
+R_3k6rPDoCD4kup7x,het geld,156,het geld,het geld,het,geld,True,True,5.0,6,5.537
+R_p6iBXJstulO97Jn,het geld,156,het geld,het geld,het,geld,True,True,4.0,6,7.075
+R_USFewLQTXHp0kPT,het geld,156,het geld,het geld,het,geld,True,True,5.0,6,0.716
+R_vrAH2qrxu41QSv7,de film,157,de film,de film,de,film,True,True,5.0,6,5.315
+R_6Pg4ql6MQumxZo9,de film,157,de film,de film,de,film,True,True,3.0,5,2.118
+R_1QaBlAsk46HI9NJ,de bioscoop,157,de bioscoop,de bioscoop,de,bioscoop,True,True,5.0,6,5.694
+R_pKtuHvEeh5mujgl,de film,157,de film,de film,de,film,True,True,5.0,6,4.328
+R_RrYmeJDnKB3hv7r,de film,157,de film,de film,de,film,True,True,5.0,6,7.088
+R_2alPe2ZkILnzWYp,een film,157,een film,een film,een,film,False,True,4.0,6,7.447
+R_24zMzQY1U9LX5Gf,de film,157,de film,de film,de,film,True,True,5.0,6,3.088
+R_2zAp7MZjWbJtouD,de film,157,de film,de film,de,film,True,True,5.0,6,5.638
+R_1lgea30X5yRbWgb,Film,157,Film,film,,-99,False,False,5.0,6,12.574
+R_1dg0dAPlymYfFcu,de film,157,de film,de film,de,film,True,True,5.0,6,3.39
+R_23TSscPxb3G1aSA,film,157,film,film,,-99,False,False,4.0,5,4.848
+R_3effdDALVVpFhkK,de cinema,157,de cinema,de cinema,de,cinema,True,True,5.0,5,5.813
+R_2PpvbvcItA8LcqM,de bios,157,de bios,de bios,de,bios,True,True,4.0,5,10.265
+R_25WvorTEPc7DuHX,de film,157,de film,de film,de,film,True,True,5.0,6,7.792
+R_ZJCIt5D6m80Wim5,De film,157,De film,de film,De,film,True,True,1.0,6,9.066
+R_6gQpeEEoAOw1CNz,de film,157,de film,de film,de,film,True,True,5.0,5,5.253
+R_UcJP3naTdDXJEDn,De film,157,De film,de film,De,film,True,True,4.0,6,9.831
+R_21pKbw8vqrjpJ4Q,de film,157,de film,de film,de,film,True,True,5.0,6,8.333
+R_1HiWKvIl546M44z,de film,157,de film,de film,de,film,True,True,3.0,5,4.486
+R_BFIiDPrnKiKOhkB,de film,157,de film,de film,de,film,True,True,3.0,6,3.227
+R_232AZeZQOdbRSAK,de film,157,de film,de film,de,film,True,True,5.0,6,4.739
+R_1odMwWpdALe3A7c,de film,157,de film,de film,de,film,True,True,5.0,6,17.863
+R_3CMZ1prTdwstnIi,de film,157,de film,de film,de,film,True,True,4.0,5,3.252
+R_2SDkvNUYWKzQ9b4,de film,157,de film,de film,de,film,True,True,4.0,4,2.561
+R_2qwqWlqovi1EnxK,de bioscoop,157,de bioscoop,de bioscoop,de,bioscoop,True,True,1.0,3,24.523
+R_1nSW9rReHHlwpSQ,De film,157,De film,de film,De,film,True,True,5.0,4,4.431
+R_3FPt6NNv7fs4bHV,de fil,157,de fil,de fil,de,fil,True,True,4.0,6,6.148
+R_2uOs8d5Okoyss7z,de bioscoop,157,de bioscoop,de bioscoop,de,bioscoop,True,True,4.0,3,6.043
+R_1JEdl2aEMuUO63f,de film,157,de film,de film,de,film,True,True,5.0,6,4.695
+R_6L3ln2BoQAzJw2d,de film,157,de film,de film,de,film,True,True,5.0,6,2.679
+R_xAA7goWcKMvmb1D,de film,157,de film,de film,de,film,True,True,4.0,6,4.31
+R_248iCMeSwyLS8sF,de film,157,de film,de film,de,film,True,True,3.0,5,27.189
+R_OING4tGkg3q8VLb,een film,157,een film,een film,een,film,False,True,4.0,5,7.388
+R_3kvbwPackXPANmo,de film,157,de film,de film,de,film,True,True,5.0,6,2.416
+R_3lRiG6M8Z6vKWZh,de film,157,de film,de film,de,film,True,True,5.0,6,4.775
+R_3q9cZ9NJjEx872v,de film,157,de film,de film,de,film,True,True,4.0,6,4.283
+R_ABt8n7PxUqkXqy5,De film ,157,De film,de film,De,film,True,True,5.0,6,5.58
+R_3k6rPDoCD4kup7x,de film,157,de film,de film,de,film,True,True,5.0,6,11.012
+R_p6iBXJstulO97Jn,de film,157,de film,de film,de,film,True,True,4.0,6,8.291
+R_USFewLQTXHp0kPT,de film,157,de film,de film,de,film,True,True,3.0,5,0.577
+R_vrAH2qrxu41QSv7,de radio,158,de radio,de radio,de,radio,True,True,5.0,6,4.587
+R_6Pg4ql6MQumxZo9,de radio,158,de radio,de radio,de,radio,True,True,5.0,6,2.078
+R_1QaBlAsk46HI9NJ,de radio,158,de radio,de radio,de,radio,True,True,5.0,6,5.291
+R_pKtuHvEeh5mujgl,de radio,158,de radio,de radio,de,radio,True,True,4.0,6,3.309
+R_RrYmeJDnKB3hv7r,de radio,158,de radio,de radio,de,radio,True,True,5.0,6,4.349
+R_2alPe2ZkILnzWYp,de radio,158,de radio,de radio,de,radio,True,True,4.0,6,5.881
+R_24zMzQY1U9LX5Gf,de radio,158,de radio,de radio,de,radio,True,True,5.0,6,5.155
+R_2zAp7MZjWbJtouD,de radio,158,de radio,de radio,de,radio,True,True,5.0,6,9.29
+R_1lgea30X5yRbWgb,Radio,158,Radio,radio,,-99,False,False,5.0,6,4.465
+R_1dg0dAPlymYfFcu,de radio,158,de radio,de radio,de,radio,True,True,5.0,6,3.842
+R_23TSscPxb3G1aSA,radio,158,radio,radio,,-99,False,False,5.0,6,6.016
+R_3effdDALVVpFhkK,de radio,158,de radio,de radio,de,radio,True,True,4.0,5,7.051
+R_2PpvbvcItA8LcqM,de radio,158,de radio,de radio,de,radio,True,True,5.0,6,9.758
+R_25WvorTEPc7DuHX,de radio,158,de radio,de radio,de,radio,True,True,5.0,6,9.248
+R_ZJCIt5D6m80Wim5,De radio,158,De radio,de radio,De,radio,True,True,4.0,6,5.857
+R_6gQpeEEoAOw1CNz,de radio,158,de radio,de radio,de,radio,True,True,5.0,6,3.075
+R_UcJP3naTdDXJEDn,De radio,158,De radio,de radio,De,radio,True,True,3.0,6,7.85
+R_21pKbw8vqrjpJ4Q,de radio,158,de radio,de radio,de,radio,True,True,5.0,6,5.099
+R_1HiWKvIl546M44z,de radio,158,de radio,de radio,de,radio,True,True,3.0,5,5.855
+R_BFIiDPrnKiKOhkB,de radio,158,de radio,de radio,de,radio,True,True,4.0,6,3.461
+R_232AZeZQOdbRSAK,de radio,158,de radio,de radio,de,radio,True,True,5.0,6,4.094
+R_1odMwWpdALe3A7c,de radio,158,de radio,de radio,de,radio,True,True,4.0,6,3.577
+R_3CMZ1prTdwstnIi,de radio ,158,de radio,de radio,de,radio,True,True,3.0,6,2.152
+R_2SDkvNUYWKzQ9b4,de radio,158,de radio,de radio,de,radio,True,True,5.0,6,1.322
+R_2qwqWlqovi1EnxK,de radio,158,de radio,de radio,de,radio,True,True,4.0,6,3.411
+R_1nSW9rReHHlwpSQ,De radio,158,De radio,de radio,De,radio,True,True,4.0,6,10.725
+R_3FPt6NNv7fs4bHV,de radio,158,de radio,de radio,de,radio,True,True,3.0,6,3.719
+R_2uOs8d5Okoyss7z,de radio,158,de radio,de radio,de,radio,True,True,4.0,5,3.328
+R_1JEdl2aEMuUO63f,de radio,158,de radio,de radio,de,radio,True,True,5.0,6,2.721
+R_6L3ln2BoQAzJw2d,de radio,158,de radio,de radio,de,radio,True,True,5.0,6,1.656
+R_xAA7goWcKMvmb1D,de radio,158,de radio,de radio,de,radio,True,True,4.0,4,4.407
+R_248iCMeSwyLS8sF,de radio,158,de radio,de radio,de,radio,True,True,3.0,4,14.556
+R_OING4tGkg3q8VLb,de radio,158,de radio,de radio,de,radio,True,True,4.0,5,8.103
+R_3kvbwPackXPANmo,de radio,158,de radio,de radio,de,radio,True,True,5.0,6,1.525
+R_3lRiG6M8Z6vKWZh,de radio,158,de radio,de radio,de,radio,True,True,5.0,6,4.28
+R_3q9cZ9NJjEx872v,de radio,158,de radio,de radio,de,radio,True,True,3.0,6,5.025
+R_ABt8n7PxUqkXqy5,De radio,158,De radio,de radio,De,radio,True,True,5.0,6,10.938
+R_3k6rPDoCD4kup7x,de radio,158,de radio,de radio,de,radio,True,True,5.0,6,4.437
+R_p6iBXJstulO97Jn,de radio,158,de radio,de radio,de,radio,True,True,4.0,6,2.932
+R_USFewLQTXHp0kPT,de radio,158,de radio,de radio,de,radio,True,True,3.0,6,0.532
+R_vrAH2qrxu41QSv7,de balkon,159,de balkon,de balkon,de,balkon,True,True,5.0,6,44.656
+R_6Pg4ql6MQumxZo9,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,1.834
+R_1QaBlAsk46HI9NJ,de bank,159,de bank,de bank,de,bank,True,True,4.0,5,4.976
+R_pKtuHvEeh5mujgl,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,5.957
+R_RrYmeJDnKB3hv7r,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,6.689
+R_2alPe2ZkILnzWYp,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,4.894
+R_24zMzQY1U9LX5Gf,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,3.428
+R_2zAp7MZjWbJtouD,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,9.963
+R_1lgea30X5yRbWgb,Balkon,159,Balkon,balkon,,-99,False,False,5.0,6,10.524
+R_1dg0dAPlymYfFcu,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,2.918
+R_23TSscPxb3G1aSA,balkon,159,balkon,balkon,,-99,False,False,5.0,6,4.167
+R_3effdDALVVpFhkK,het terras,159,het terras,het terras,het,terras,True,True,4.0,5,11.445
+R_2PpvbvcItA8LcqM,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,8.352
+R_25WvorTEPc7DuHX,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,8.465
+R_ZJCIt5D6m80Wim5,Het balkon,159,Het balkon,het balkon,Het,balkon,True,True,5.0,6,14.021
+R_6gQpeEEoAOw1CNz,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,11.636
+R_UcJP3naTdDXJEDn,Het balkon,159,Het balkon,het balkon,Het,balkon,True,True,5.0,6,12.195
+R_21pKbw8vqrjpJ4Q,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,13.149
+R_1HiWKvIl546M44z,het balkon,159,het balkon,het balkon,het,balkon,True,True,4.0,6,4.436
+R_BFIiDPrnKiKOhkB,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,3.155
+R_232AZeZQOdbRSAK,het balkon,159,het balkon,het balkon,het,balkon,True,True,3.0,5,7.946
+R_1odMwWpdALe3A7c,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,4.716
+R_3CMZ1prTdwstnIi,het balkon ,159,het balkon,het balkon,het,balkon,True,True,5.0,6,2.853
+R_2SDkvNUYWKzQ9b4,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,1.208
+R_2qwqWlqovi1EnxK,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,5.873
+R_1nSW9rReHHlwpSQ,Het balkon ,159,Het balkon,het balkon,Het,balkon,True,True,5.0,6,5.253
+R_3FPt6NNv7fs4bHV,mijn balkon,159,mijn balkon,mijn balkon,mijn,balkon,False,True,5.0,6,3.524
+R_2uOs8d5Okoyss7z,het balkon,159,het balkon,het balkon,het,balkon,True,True,3.0,5,39.894
+R_1JEdl2aEMuUO63f,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,6.085
+R_6L3ln2BoQAzJw2d,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,2.173
+R_xAA7goWcKMvmb1D,het dak,159,het dak,het dak,het,dak,True,True,3.0,5,3.468
+R_248iCMeSwyLS8sF,het dak,159,het dak,het dak,het,dak,True,True,3.0,5,10.413
+R_OING4tGkg3q8VLb,het balkon,159,het balkon,het balkon,het,balkon,True,True,3.0,4,17.804
+R_3kvbwPackXPANmo,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,6.804
+R_3lRiG6M8Z6vKWZh,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,6.199
+R_3q9cZ9NJjEx872v,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,6.261
+R_ABt8n7PxUqkXqy5,Het balkon,159,Het balkon,het balkon,Het,balkon,True,True,4.0,6,5.556
+R_3k6rPDoCD4kup7x,het balkon,159,het balkon,het balkon,het,balkon,True,True,5.0,6,9.277
+R_p6iBXJstulO97Jn,het balkon,159,het balkon,het balkon,het,balkon,True,True,4.0,6,4.996
+R_USFewLQTXHp0kPT,het balkon,159,het balkon,het balkon,het,balkon,True,True,4.0,6,4.787
+R_vrAH2qrxu41QSv7,het land,160,het land,het land,het,land,True,True,5.0,6,9.369
+R_6Pg4ql6MQumxZo9,het land,160,het land,het land,het,land,True,True,1.0,5,1.507
+R_1QaBlAsk46HI9NJ,het land,160,het land,het land,het,land,True,True,4.0,6,6.372
+R_pKtuHvEeh5mujgl,het land,160,het land,het land,het,land,True,True,4.0,5,11.038
+R_RrYmeJDnKB3hv7r,het land,160,het land,het land,het,land,True,True,5.0,6,3.08
+R_2alPe2ZkILnzWYp,het land,160,het land,het land,het,land,True,True,5.0,6,27.176
+R_24zMzQY1U9LX5Gf,het land,160,het land,het land,het,land,True,True,5.0,6,12.318
+R_2zAp7MZjWbJtouD,het land,160,het land,het land,het,land,True,True,1.0,6,49.879
+R_1lgea30X5yRbWgb,Land,160,Land,land,,-99,False,False,5.0,6,8.71
+R_1dg0dAPlymYfFcu,het land,160,het land,het land,het,land,True,True,4.0,5,6.29
+R_23TSscPxb3G1aSA,nederland,160,nederland,nederland,,-99,False,False,5.0,5,8.68
+R_3effdDALVVpFhkK,het land,160,het land,het land,het,land,True,True,4.0,5,15.2
+R_2PpvbvcItA8LcqM,het land,160,het land,het land,het,land,True,True,4.0,4,14.219
+R_25WvorTEPc7DuHX,het land,160,het land,het land,het,land,True,True,5.0,6,6.705
+R_ZJCIt5D6m80Wim5,Het land,160,Het land,het land,Het,land,True,True,1.0,6,26.744
+R_6gQpeEEoAOw1CNz,de volgende ,160,de volgende,de volgende,de,volgende,True,True,3.0,3,3.833
+R_UcJP3naTdDXJEDn,Het land,160,Het land,het land,Het,land,True,True,3.0,6,15.254
+R_21pKbw8vqrjpJ4Q,het land,160,het land,het land,het,land,True,True,4.0,6,13.789
+R_1HiWKvIl546M44z,de dag,160,de dag,de dag,de,dag,True,True,2.0,5,5.677
+R_BFIiDPrnKiKOhkB,het land,160,het land,het land,het,land,True,True,3.0,5,11.234
+R_232AZeZQOdbRSAK,het land,160,het land,het land,het,land,True,True,2.0,5,15.11
+R_1odMwWpdALe3A7c,het land,160,het land,het land,het,land,True,True,4.0,5,3.28
+R_3CMZ1prTdwstnIi,het land ,160,het land,het land,het,land,True,True,2.0,4,3.122
+R_2SDkvNUYWKzQ9b4,het land,160,het land,het land,het,land,True,True,4.0,6,2.393
+R_2qwqWlqovi1EnxK,het land,160,het land,het land,het,land,True,True,4.0,3,16.697
+R_1nSW9rReHHlwpSQ,Het land,160,Het land,het land,Het,land,True,True,2.0,4,26.762
+R_3FPt6NNv7fs4bHV,het land,160,het land,het land,het,land,True,True,3.0,6,5.466
+R_2uOs8d5Okoyss7z,het land,160,het land,het land,het,land,True,True,5.0,6,4.59
+R_1JEdl2aEMuUO63f,het land,160,het land,het land,het,land,True,True,5.0,6,21.239
+R_6L3ln2BoQAzJw2d,de volgende,160,de volgende,de volgende,de,volgende,True,True,5.0,6,4.612
+R_xAA7goWcKMvmb1D,de Benelux,160,de Benelux,de benelux,de,Benelux,True,False,1.0,5,1.246
+R_248iCMeSwyLS8sF,het land,160,het land,het land,het,land,True,True,2.0,5,37.582
+R_OING4tGkg3q8VLb,het land,160,het land,het land,het,land,True,True,3.0,4,12.823
+R_3kvbwPackXPANmo,het land,160,het land,het land,het,land,True,True,3.0,3,2.845
+R_3lRiG6M8Z6vKWZh,het land,160,het land,het land,het,land,True,True,1.0,3,14.567
+R_3q9cZ9NJjEx872v,het land,160,het land,het land,het,land,True,True,1.0,6,5.222
+R_ABt8n7PxUqkXqy5,Het land,160,Het land,het land,Het,land,True,True,5.0,6,5.022
+R_3k6rPDoCD4kup7x,het land,160,het land,het land,het,land,True,True,5.0,6,4.949
+R_p6iBXJstulO97Jn,Het land,160,Het land,het land,Het,land,True,True,2.0,3,45.317
+R_USFewLQTXHp0kPT,ons land,160,ons land,ons land,ons,land,False,True,3.0,4,0.608
+R_vrAH2qrxu41QSv7,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,3.68
+R_6Pg4ql6MQumxZo9,de krant,161,de krant,de krant,de,krant,True,True,5.0,5,6.222
+R_1QaBlAsk46HI9NJ,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,4.267
+R_pKtuHvEeh5mujgl,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,3.024
+R_RrYmeJDnKB3hv7r,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,3.065
+R_2alPe2ZkILnzWYp,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,2.869
+R_24zMzQY1U9LX5Gf,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,1.525
+R_2zAp7MZjWbJtouD,de krant ,161,de krant,de krant,de,krant,True,True,5.0,6,6.831
+R_1lgea30X5yRbWgb,Bijbel,161,Bijbel,bijbel,,-99,False,False,1.0,6,12.247
+R_1dg0dAPlymYfFcu,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,2.876
+R_23TSscPxb3G1aSA,krant,161,krant,krant,,-99,False,False,5.0,6,3.485
+R_3effdDALVVpFhkK,de krant,161,de krant,de krant,de,krant,True,True,4.0,5,6.056
+R_2PpvbvcItA8LcqM,de krant,161,de krant,de krant,de,krant,True,True,5.0,5,7.042
+R_25WvorTEPc7DuHX,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,5.793
+R_ZJCIt5D6m80Wim5,Een krant,161,Een krant,een krant,Een,krant,False,True,4.0,6,12.056
+R_6gQpeEEoAOw1CNz,de krant ,161,de krant,de krant,de,krant,True,True,5.0,6,2.082
+R_UcJP3naTdDXJEDn,De krant,161,De krant,de krant,De,krant,True,True,4.0,6,3.366
+R_21pKbw8vqrjpJ4Q,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,4.707
+R_1HiWKvIl546M44z,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,2.809
+R_BFIiDPrnKiKOhkB,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,3.053
+R_232AZeZQOdbRSAK,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,3.397
+R_1odMwWpdALe3A7c,de krant,161,de krant,de krant,de,krant,True,True,4.0,6,2.997
+R_3CMZ1prTdwstnIi,de krant ,161,de krant,de krant,de,krant,True,True,5.0,6,2.345
+R_2SDkvNUYWKzQ9b4,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,1.637
+R_2qwqWlqovi1EnxK,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,2.707
+R_1nSW9rReHHlwpSQ,De krant ,161,De krant,de krant,De,krant,True,True,5.0,6,4.47
+R_3FPt6NNv7fs4bHV,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,3.831
+R_2uOs8d5Okoyss7z,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,2.186
+R_1JEdl2aEMuUO63f,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,2.342
+R_6L3ln2BoQAzJw2d,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,1.186
+R_xAA7goWcKMvmb1D,de krant,161,de krant,de krant,de,krant,True,True,4.0,5,4.925
+R_248iCMeSwyLS8sF,de playboy,161,de playboy,de playboy,de,playboy,True,True,5.0,5,11.878
+R_OING4tGkg3q8VLb,een krant,161,een krant,een krant,een,krant,False,True,4.0,5,5.409
+R_3kvbwPackXPANmo,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,1.764
+R_3lRiG6M8Z6vKWZh,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,4.19
+R_3q9cZ9NJjEx872v,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,6.613
+R_ABt8n7PxUqkXqy5,De krant ,161,De krant,de krant,De,krant,True,True,5.0,6,3.524
+R_3k6rPDoCD4kup7x,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,5.318
+R_p6iBXJstulO97Jn,De krant,161,De krant,de krant,De,krant,True,True,5.0,6,4.294
+R_USFewLQTXHp0kPT,de krant,161,de krant,de krant,de,krant,True,True,5.0,6,0.405
